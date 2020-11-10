@@ -29,7 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <style type="text/css">
 
-<div id="div1" style="height:50px;width:50%;text-align:justify;">
+<div id="div1" style="height:50px;width:50%;text-align:justify;display:none">
 A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
 </div>
 
