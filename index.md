@@ -38,8 +38,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 }
 
 #bt{
-  width:50%;
-  height:60px;
   background:#7ED321;
   width: 76px;
   height:36px;
