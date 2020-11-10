@@ -51,10 +51,7 @@ function xx(){
  
 }
 </script>
-<body>
-<input type="button" id="bt" value="显示模块" onclick="xx()"/>
-<div id="div1" ></div>
-</body>
+
 
 
 ---
@@ -85,6 +82,9 @@ function xx(){
 <div id="content" style="height:200px;width:20%;float:left;">
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
+
+<input type="button" id="bt" value="显示模块" onclick="xx()"/>
+<div id="div1" ></div>
 
 </body>
 
