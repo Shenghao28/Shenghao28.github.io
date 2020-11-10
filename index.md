@@ -30,10 +30,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <style type="text/css">
 	
 #div1{
-  width:50%;
-  height:50px;
+  width:75%;
+  height:200px;
   background:#ccc;
-  display:none;
+  display:block;
 }
 
 
@@ -82,7 +82,7 @@ function xx(){
 
 <div id="menu" style="height:200px;width:70%;float:left;text-align:justify;">
 <b>Anna</b>, Tom, TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <i>International Journal of Computer-Assisited Radiology and Surgery</i><br>
-<input type="button" id="bt" value="显示模块" onclick="xx()"/>
+<input type="button" id="bt" value="abstract" onclick="xx()"/>
 <div id="div1" >A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
 </div>
 </div>
