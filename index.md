@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Shenghao28/Shenghao28.gith
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <div>
-<table border="0" cellpadding="0" cellspacing="0">
+<table >
   <tr>
     <td width="75%">
       <h1>张三</h1>
