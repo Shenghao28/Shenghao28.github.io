@@ -39,6 +39,34 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 ---
 
+<body>
+
+<div id="back1" style="width:85%;float:left;">
+
+<b>Harvard University, US</b>
+
+</div>
+
+<div id="time1" style="width:15%;float:right;">
+2017.01 ~ 2017.02
+</div>
+
+<div id="back2" style="width:5%;float:left;">
+</div>
+
+<div id="time2" style="width:55%;float:left;">
+M.Sc. in Engineering Science: Electrical Engineering (with honor) 
+</div>
+
+<div id="time2" style="width:40%;float:left;">
+GPA: 3.94/4.0
+</div>
+
+</body>
+
+
+---
+
 <style type="text/css">
 	
 #div1{
