@@ -27,23 +27,35 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ---
 
+<style type="text/css">
+#div1{
+  width:200px;
+  height:50px;
+  background:#ccc;
+	display:none;
+}
+</style>
+<script type="text/javascript">
+function xx(){
+  var obt=document.getElementById("bt");
+  var odiv=document.getElementById("div1");
+  
+    if(odiv.style.display=="none"){
+       odiv.style.display="block";
+      obt.value="hidden";
+    }
+    else{
+     odiv.style.display="none";
+      obt.value="display";
+    }
+ 
+}
+</script>
 <body>
-        <div id="dv"></div>
- 
-        <input type="button" value="隐藏" onclick="bt()">
-        <input type="button" value="显示" onclick="bt1()">
- 
-        <script type="text/javascript">
-            function bt(){
-                var div=document.getElementById("dv");
-                div.style.display="none";
-            }
-            function bt1(){
-                var div=document.getElementById("dv");
-                div.style.display="block";
-            }
-        </script>
+<input type="button" id="bt" value="显示模块" onclick="xx()"/>
+<div id="div1" ></div>
 </body>
+
 
 ---
 
