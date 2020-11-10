@@ -102,7 +102,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 .FONT1BUTTON{
-font-size: 100%;
+font-size: 200%;
 }
 
 
