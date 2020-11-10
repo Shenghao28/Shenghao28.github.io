@@ -28,7 +28,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ---
 
 <body>
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table border="0" cellpadding="0" cellspacing="0" style="border:1px solid #000000;">
 	              <tr>
                        <th>number</th>
                        <td>100000</td>
