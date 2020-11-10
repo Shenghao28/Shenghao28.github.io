@@ -44,11 +44,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <body>
 
-<div id="menu" style="background-color:#FFD700;height:200px;width:75%;float:left;text-align:justify;">
+<div id="journal_type" style="height:200px;width:10%;float:left;text-align:justify;">
+[Journal]</div>
+
+<div id="menu" style="height:200px;width:70%;float:left;text-align:justify;">
 <b>Anna</b>, Tom, TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <i>International Journal of Computer-Assisited Radiology and Surgery</i></div>
 
-<div id="content" style="background-color:#EEEEEE;height:200px;width:25%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="20%">
+<div id="content" style="height:200px;width:20%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
 </body>
