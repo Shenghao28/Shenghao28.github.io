@@ -28,20 +28,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ---
 
 <body>
-
-<div class="wrap-nav clear">
-         <div class="nav-tap clear">
-          <img src="/zhengjianzhao.jpg">
-          <span style="display:inline-block"></span>
-       </div>
-           <div class="nav-xl amn4">
-               <span _id1="1">酒吧</span>
-               <span _id1="2">餐馆</span>
-               <span _id1="3">体育馆</span>
-               <span _id1="4">茶吧</span>
-               <span _id1="5">spa</span>
-          </div>
-</div>
+        <div id="dv"></div>
+ 
+        <input type="button" value="隐藏" onclick="bt()">
+        <input type="button" value="显示" onclick="bt1()">
+ 
+        <script type="text/javascript">
+            function bt(){
+                var div=document.getElementById("dv");
+                div.style.display="none";
+            }
+            function bt1(){
+                var div=document.getElementById("dv");
+                div.style.display="block";
+            }
+        </script>
 </body>
 
 ---
