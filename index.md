@@ -40,15 +40,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         </table>
 </body>
 
----
+<body>
 
 <div>
     <span style="float:left;font-family:arial;font-size:3;" οnmοuseοver="red(this)" οnmοuseοut="black(this)">联系我们</span>
     <img style="float:right;" src="/zhengjianzhao.jpg" width="10%">
 </div>
 
-
----
+</body>
 
 ### 最新消息
 1. 消息1×××
