@@ -42,7 +42,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <body>
 
 <div id="title1" style="width:100%;float:left;">
-<font size="3" color="green">Academic Background</font>
+<font size="6" color="green">Academic Background</font>
 </div>
 
 <div id="back1" style="width:65%;float:left;">
@@ -56,7 +56,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; M.Sc. in Engineering Science: Electrical Engineering
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226; M.Sc. in Engineering Science: Electrical Engineering<br><br>
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
@@ -111,7 +111,7 @@ function xx(){
 <body>
 
 <div id="title1" style="width:100%;float:left;">
-<font size="3" color="green">Research Project</font>
+<font size="6" color="green">Research Project</font>
 </div>
 
 <div id="proj1" style="width:75%;float:left;text-align:justify;">
