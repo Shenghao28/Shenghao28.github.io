@@ -48,7 +48,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <b>Anna</b>, Tom, TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <i>International Journal of Computer-Assisited Radiology and Surgery</i></div>
 
 <div id="content" style="background-color:#EEEEEE;height:200px;width:25%;float:left;">
-内容在这里</div>
+<img style="float:left;" src="/zhengjianzhao.jpg" width="20%">
+</div>
 
 </body>
 
