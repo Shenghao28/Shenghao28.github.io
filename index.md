@@ -31,7 +31,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <div class="wrap-nav clear">
          <div class="nav-tap clear">
-          <img src="../img1/yi0_03.jpg">
+          <img src="/zhengjianzhao.jpg">
           <span style="display:inline-block"></span>
        </div>
            <div class="nav-xl amn4">
