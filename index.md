@@ -182,7 +182,7 @@ TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Car
 <body>
 	
 <div id="title1" style="width:100%;float:left;">
-<font size="6" color="green">Academic Background</font>
+<font size="6" color="green">Publication</font>
 </div>
 
 <div id="journal_type" style="height:200px;width:10%;float:left;text-align:justify;">
