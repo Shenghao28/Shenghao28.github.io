@@ -33,6 +33,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   width:75%;
   height:200px;
   background:#ccc;
+  opacity:1.0;
   display:none;
 }
 
@@ -45,11 +46,11 @@ function xx(){
   
     if(odiv.style.display=="block"){
        odiv.style.display="none";
-      obt.value="hidden";
+      obt.value="abstract";
     }
     else{
      odiv.style.display="block";
-      obt.value="display";
+      obt.value="abstract";
     }
 }
 </script>
