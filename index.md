@@ -40,10 +40,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         </table>
 </body>
 
+
+<body>
 <table border="0" cellpadding="0" cellspacing="0" style="border:1px solid #000000;">
 <tr><td>adsfa</td><td>adsfa</td></tr>
 <tr><td>adsfa</td><td>adsfa</td></tr>
 </table>
+</body>
+
 
 ### 最新消息
 1. 消息1×××
