@@ -45,11 +45,11 @@ function xx(){
   
     if(odiv.style.display=="block"){
        odiv.style.display="none";
-      obt.value="hiddendfgdsf";
+      obt.value="hidden";
     }
     else{
      odiv.style.display="block";
-      obt.value="displaydsfd";
+      obt.value="display";
     }
 }
 </script>
