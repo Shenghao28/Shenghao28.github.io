@@ -43,15 +43,14 @@ function xx(){
   var obt=document.getElementById("bt");
   var odiv=document.getElementById("div1");
   
-    if(odiv.style.display=="none"){
-       odiv.style.display="block";
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
       obt.value="hiddendfgdsf";
     }
     else{
-     odiv.style.display="none";
+     odiv.style.display="block";
       obt.value="displaydsfd";
     }
- 
 }
 </script>
 
