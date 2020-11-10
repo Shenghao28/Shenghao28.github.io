@@ -43,17 +43,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ---
 
 <div>
-    <img style="float:left;" src="/zhengjianzhao.jpg">
+    <img style="float:left;" src="/zhengjianzhao.jpg" width="10%">
     <span style="float:left;font-family:arial;font-size:3;" οnmοuseοver="red(this)" οnmοuseοut="black(this)">联系我们</span>
     <span style="float:left;color: #C0C0C0"><small>&nbsp;Contact Us</small></span>
     <span><a style="float:right;color:#C0C0C0;" href="#">More>></a></span>
 </div>
 <br>
 <div style="margin-top: 20px;">
-    <img style="float:left;" src="/zhengjianzhao.jpg" class="img-responsive">
+    <img style="float:left;" src="/zhengjianzhao.jpg" width="10%" class="img-responsive">
     <div style="float:left; margin-left: 20px; margin-top: 10px">
-	<img style="float:left;" src="/zhengjianzhao.jpg" alt=" " class="img-responsive ">
-	<img style="margin-left: 50px;" src="/zhengjianzhao.jpg " alt=" " class="img-responsive ">
+	<img style="float:left;" src="/zhengjianzhao.jpg" width="10%" alt=" " class="img-responsive ">
+	<img style="margin-left: 50px;" src="/zhengjianzhao.jpg" width="10%" alt=" " class="img-responsive ">
 	<!-- class="img-responsive" add newline -->
 	<span style="font-size: small; ">全国服务热线：</span>
 	<br>
