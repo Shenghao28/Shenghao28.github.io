@@ -33,7 +33,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   width:75%;
   height:200px;
   background:#FF0000;
-  opacity:0.1;
+  opacity:0.98;
   display:none;
 }
 
