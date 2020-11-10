@@ -82,8 +82,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 #bt{
   width:15%;
   height:36px;
-  background:#EBEBEB;
-  opacity:0.01;
+  background:#FFFFFF;
   border-style: none;
 }
 
@@ -98,8 +97,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 #bt_proj1{
   width:15%;
   height:36px;
-  background:#EBEBEB;
-  opacity:0.01;
+  background:#FFFFFF;
   border-style: none;
 }
 
