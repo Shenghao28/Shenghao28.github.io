@@ -28,6 +28,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ---
 
 <body>
+
+<div class="wrap-nav clear">
+         <div class="nav-tap clear">
+          <img src="../img1/yi0_03.jpg">
+          <span style="display:inline-block"></span>
+       </div>
+           <div class="nav-xl amn4">
+               <span _id1="1">酒吧</span>
+               <span _id1="2">餐馆</span>
+               <span _id1="3">体育馆</span>
+               <span _id1="4">茶吧</span>
+               <span _id1="5">spa</span>
+          </div>
+</div>
+</body>
+
+---
+
+<body>
         <table style="border-collapse: collapse; border: none;">
 	        <tr>
                        <th>number</th>
