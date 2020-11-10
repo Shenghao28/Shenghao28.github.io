@@ -40,6 +40,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         </table>
 </body>
 
+---
+
 <body>
 
 <div id="menu" style="background-color:#FFD700;height:200px;width:100px;float:left;">
@@ -51,8 +53,9 @@ JavaScript</div>
 <div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
 内容在这里</div>
 
-
 </body>
+
+---
 
 ### 最新消息
 1. 消息1×××
