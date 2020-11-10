@@ -60,7 +60,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
-<b>GPA: 3.94/4.0</b>
+<b>GPA: 3.93/4.0</b>
 </div>
 
 </body>
@@ -86,6 +86,21 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   border-style: none;
 }
 
+#div_proj1{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_proj1{
+  width:15%;
+  height:36px;
+  background:#EBEBEB;
+  border-style: none;
+}
+
 
 </style>
 <script type="text/javascript">
@@ -102,6 +117,19 @@ function xx(){
       obt.value="abstract";
     }
 }
+function proj1_func(){
+  var obt=document.getElementById("bt_proj1");
+  var odiv=document.getElementById("div_proj1");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="projection description";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="projection description";
+    }
+}
 </script>
 
 
@@ -116,6 +144,9 @@ function xx(){
 
 <div id="proj1" style="width:75%;float:left;text-align:justify;">
 TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <br><br><i>Natural Science Founding XXX</i><br><br>
+<input type="button" id="bt_proj1" value="projection description" onclick="proj1_func()"/>   <a href=" http://www.baidu.com">Link</a>  <b>In Revision</b>
+<div id="div_proj1" >This is a project.
+</div>
 </div>
 
 <div id="proj_img1" style="width:25%;float:left;">
