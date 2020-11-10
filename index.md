@@ -37,6 +37,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   display:none;
 }
 
+#bt{
+  width:50%;
+  height:10px;
+}
+
 
 </style>
 <script type="text/javascript">
