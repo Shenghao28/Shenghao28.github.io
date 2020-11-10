@@ -144,7 +144,7 @@ function proj1_func(){
 
 <div id="proj1" style="width:75%;float:left;text-align:justify;">
 TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <br><br><i>Natural Science Founding XXX</i><br><br>
-<input type="button" id="bt_proj1" value="projection description" onclick="proj1_func()"/>   <a href=" http://www.baidu.com">Link</a>  <b>In Revision</b>
+<input type="button" id="bt_proj1" value="projection description" onclick="proj1_func()"/>  <b>Principal Investgitor: Prof Gaojun Teng</b>
 <div id="div_proj1" >This is a project.
 </div>
 </div>
