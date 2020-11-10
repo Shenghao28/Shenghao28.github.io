@@ -85,6 +85,7 @@ function xx(){
 
 
 <input type="button" id="bt" value="显示模块" onclick="xx()"/>
+<div id="div1" ></div>
 
 </body>
 
