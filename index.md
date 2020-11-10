@@ -39,9 +39,11 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 ---
 
-### Academic Background
-
 <body>
+
+<div id="title1" style="width:100%;float:left;">
+<font size="3" color="green">Academic Background</font>
+</div>
 
 <div id="back1" style="width:65%;float:left;">
 
@@ -105,11 +107,12 @@ function xx(){
 
 ---
 
-### Research Project
-
 
 <body>
 
+<div id="title1" style="width:100%;float:left;">
+<font size="3" color="green">Research Project</font>
+</div>
 
 <div id="proj1" style="width:75%;float:left;text-align:justify;">
 TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <br><br><i>Natural Science Founding XXX</i><br><br>
