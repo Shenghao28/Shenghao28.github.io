@@ -89,7 +89,7 @@ function xx(){
 
 <div id="menu" style="height:200px;width:70%;float:left;text-align:justify;">
 <b>Anna</b>, Tom, TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <br><br><i>International Journal of Computer-Assisited Radiology and Surgery</i><br><br>
-<input type="button" id="bt" value="abstract" onclick="xx()"/>  [Link](https://baidu.com/)  <b>In Revision</b>
+<input type="button" id="bt" value="abstract" onclick="xx()"/>   <a href=" http://www.baidu.com">Link</a>  <b>In Revision</b>
 <div id="div1" >A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
 </div>
 </div>
