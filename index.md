@@ -39,6 +39,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 ---
 
+### Academic Background
+
 <body>
 
 <div id="back1" style="width:65%;float:left;">
