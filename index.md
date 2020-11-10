@@ -36,10 +36,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   display:none;
 }
 
-<div id="div1">
-A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
-</div>
-
 
 </style>
 <script type="text/javascript">
@@ -60,6 +56,13 @@ function xx(){
 </script>
 
 
+<body>
+	
+<div id="div1">
+A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
+</div>
+
+<body>
 
 ---
 
