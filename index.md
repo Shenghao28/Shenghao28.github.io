@@ -51,6 +51,7 @@ JavaScript</div>
 <div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
 内容在这里</div>
 
+</div>
 
 
 </body>
