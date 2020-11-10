@@ -28,8 +28,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ---
 
 <body>
-        <table border="0" cellpadding="0" cellspacing="0" style="border:1px solid #000000;">
-	              <tr>
+        <table style="border-collapse: collapse; border: none;">
+	        <tr>
                        <th>number</th>
                        <td>100000</td>
                 </tr>
@@ -38,14 +38,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
                        <td>88888</td>
                 </tr>
         </table>
-</body>
-
-
-<body>
-<table border="0" cellpadding="0" cellspacing="0" style="border:1px solid #000000;">
-<tr><td>adsfa</td><td>adsfa</td></tr>
-<tr><td>adsfa</td><td>adsfa</td></tr>
-</table>
 </body>
 
 
