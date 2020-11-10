@@ -55,7 +55,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:60%;float:left;">
-M.Sc. in &#95; |Engineering Science: Electrical Engineering
+&#9830; M.Sc. in Engineering Science: Electrical Engineering
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
