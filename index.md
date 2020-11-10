@@ -56,13 +56,7 @@ function xx(){
 </script>
 
 
-<body>
-	
-<div id="div1">
-A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
-</div>
 
-<body>
 
 ---
 
