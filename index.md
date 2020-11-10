@@ -44,13 +44,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <body>
 
-<div id="menu" style="background-color:#FFD700;height:200px;width:100px;float:left;">
-<b>菜单</b><br>
-HTML<br>
-CSS<br>
-JavaScript</div>
+<div id="menu" style="background-color:#FFD700;height:200px;width:400px;float:left;">
+TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention</div>
 
-<div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
+<div id="content" style="background-color:#EEEEEE;height:200px;width:100px;float:left;">
 内容在这里</div>
 
 </body>
