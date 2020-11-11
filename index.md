@@ -93,14 +93,14 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_proj1{
-  width:30%;
+  width:20%;
   height:36px;
   background:#FFFFFF;
   border-style: none;
 }
 
 .FONT1BUTTON{
-font-size: 100%;
+font-size: 80%;
 }
 
 
@@ -125,11 +125,11 @@ function proj1_func(){
   
     if(odiv.style.display=="block"){
        odiv.style.display="none";
-      obt.value="+ My Contribution";
+      obt.value="+My Contribution";
     }
     else{
      odiv.style.display="block";
-      obt.value="+ My Contribution";
+      obt.value="+My Contribution";
     }
 }
 </script>
@@ -146,7 +146,7 @@ function proj1_func(){
 
 <div id="proj1" style="width:80%;float:left;text-align:justify;">
 <p style= "font-size:16px"><br>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy <i>(National Key R&D program of China (No.2018YFA0704102))<br></i></p>
-<input type="button" id="bt_proj1" value="+ My Contribution" onclick="proj1_func()"/> <font size="3"> Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD) </font>
+<input type="button" id="bt_proj1" value="+ My Contribution" class="FONT1BUTTON" onclick="proj1_func()"/> <font size="3"> Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD) </font>
 <div id="div_proj1" >This is a project.
 </div>
 </div>
