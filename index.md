@@ -71,7 +71,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 	
 #div1{
   width:100%;
-  height:500px;
+  height:520px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -87,7 +87,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper2{
   width:100%;
-  height:300px;
+  height:350px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -136,7 +136,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper3{
   width:100%;
-  height:500px;
+  height:440px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -153,7 +153,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper4{
   width:100%;
-  height:400px;
+  height:350px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -170,7 +170,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper5{
   width:100%;
-  height:220px;
+  height:400px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -187,7 +187,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper6{
   width:100%;
-  height:400px;
+  height:380px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -204,7 +204,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper7{
   width:100%;
-  height:400px;
+  height:250px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -417,9 +417,9 @@ function paper7_func(){
 <input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div1" >
 <p style= "font-size:13px"> 
-<i><b>Purpose&nbsp;</b></i> Existing works in guidewire tip segmentation have focused on pixel-level accuracy only. However, for all the clinical applications, guidewire segmentation considering both pixel-level and topology-level accuracy is necessary. The existence of guidewire’s loop structure alerts the surgeons or robots to re-operate guidewire to avoid vessel damage caused by the bending structure of guidewire. Therefore, if the loop structure of guidewire forms during intervention, a guidewire segmentation model capable of producing result containing loop is much safer than the one producing results with the same pixel-level accuracy but no loop. Thus, a clinically useful guidewire segmentation model should achieve great performance in both pixel-level and topology-level.<br>
-<i><b>Methods&nbsp;</b></i> This paper focuses on guidewire segmentation with multiple contributions. 1) Two algorithmic contributions – an iterative segmentation framework and a pixel-topology-coupled loss function, which emphasize pixel-level and topology-level segmentation equally. 2) Metric contribution - a new metric that comprehensively evaluates the result in both pixel and topology level is introduced. 3) Dataset contribution – We establish the first publicly-available guidewire dataset containing 3000+ X-ray images with radiologist-annotated result. 4) Integration contribution – The algorithm is open-available and integrated into our previously developed surgical robot for surgical-scenario-validation.<br>
-<i><b>Results&nbsp;</b></i> The algorithm outperforms state-of-the-art in conventional pixel-level metric (0.06% ~ 4.21% on F1-Score and 1.88 ~ 8.13 pixels on tip-distance-error) and shows substantial superiority (0.16% ~ 20.99%) in newly introduced metric. The integration of the algorithm into the robot successfully realizes vision-based autonomous robotic guidewire manipulation in vivo.<br>
+<i><b>Purpose&nbsp;</b></i> Existing works in guidewire tip segmentation have focused on pixel-level accuracy only. However, for all the clinical applications, guidewire segmentation considering both pixel-level and topology-level accuracy is necessary. The existence of guidewire’s loop structure alerts the surgeons or robots to re-operate guidewire to avoid vessel damage caused by the bending structure of guidewire. Therefore, if the loop structure of guidewire forms during intervention, a guidewire segmentation model capable of producing result containing loop is much safer than the one producing results with the same pixel-level accuracy but no loop. Thus, a clinically useful guidewire segmentation model should achieve great performance in both pixel-level and topology-level.<br><br>
+<i><b>Methods&nbsp;</b></i> This paper focuses on guidewire segmentation with multiple contributions. 1) Two algorithmic contributions – an iterative segmentation framework and a pixel-topology-coupled loss function, which emphasize pixel-level and topology-level segmentation equally. 2) Metric contribution - a new metric that comprehensively evaluates the result in both pixel and topology level is introduced. 3) Dataset contribution – We establish the first publicly-available guidewire dataset containing 3000+ X-ray images with radiologist-annotated result. 4) Integration contribution – The algorithm is open-available and integrated into our previously developed surgical robot for surgical-scenario-validation.<br><br>
+<i><b>Results&nbsp;</b></i> The algorithm outperforms state-of-the-art in conventional pixel-level metric (0.06% ~ 4.21% on F1-Score and 1.88 ~ 8.13 pixels on tip-distance-error) and shows substantial superiority (0.16% ~ 20.99%) in newly introduced metric. The integration of the algorithm into the robot successfully realizes vision-based autonomous robotic guidewire manipulation in vivo.<br><br>
 <i><b>Conclusion&nbsp;</b></i> The framework is effective in segmenting the guidewire in a clinic-meaningful way – providing accurate position of tip’s endpoint (pixel-level) to the surgeon/robot and preserving the clinically meaningful structure (topology-level) simultaneously.<br>
 </p>
 </div>
@@ -442,9 +442,9 @@ function paper7_func(){
 <div id="div_paper2" >
 
 <p style= "font-size:13px"> 
-<i><b>Purpose&nbsp;</b></i>Guidewire segmentation enhances visualization of guidewire for surgeons and provides visual feedback for robot-assisted intervention. It is, however, challenging to distinguish guidewire from other curvilinear structures.<br>
-<i><b>Methods&nbsp;</b></i> This paper proposed a multi-stage algorithm for guidewire segmentation. The procedure is explicitly split into three stages, including Prediction, Locking, and Tracking. Both guidewire and non-guidewire features are extracted (by a handcraft feature-based method) as input for non-guidewire elimination (by a learning-based method).<br>
-<i><b>Results&nbsp;</b></i> Our method outperforms (1.42% ~ 11.98% in F1-Score and 0.4 ~ 3.2 pixels in tip-distance-error) state-of-the-art for guidewire segmentation. Moreover, the method eliminates non-guidewire features earlier or later but more accurately than handcraft motion-metric-based methods. The multi-stage concept handles exceptional cases where structure of guidewire deteriorates momentarily. The integration of the algorithm with our developed cardiovascular robot shows that the algorithm provides real-time guidewire feedback for 5G-based robotic tele-surgery.<br>
+<i><b>Purpose&nbsp;</b></i>Guidewire segmentation enhances visualization of guidewire for surgeons and provides visual feedback for robot-assisted intervention. It is, however, challenging to distinguish guidewire from other curvilinear structures.<br><br>
+<i><b>Methods&nbsp;</b></i> This paper proposed a multi-stage algorithm for guidewire segmentation. The procedure is explicitly split into three stages, including Prediction, Locking, and Tracking. Both guidewire and non-guidewire features are extracted (by a handcraft feature-based method) as input for non-guidewire elimination (by a learning-based method).<br><br>
+<i><b>Results&nbsp;</b></i> Our method outperforms (1.42% ~ 11.98% in F1-Score and 0.4 ~ 3.2 pixels in tip-distance-error) state-of-the-art for guidewire segmentation. Moreover, the method eliminates non-guidewire features earlier or later but more accurately than handcraft motion-metric-based methods. The multi-stage concept handles exceptional cases where structure of guidewire deteriorates momentarily. The integration of the algorithm with our developed cardiovascular robot shows that the algorithm provides real-time guidewire feedback for 5G-based robotic tele-surgery.<br><br>
 <i><b>Conclusion&nbsp;</b></i> The algorithm is effective for guidewire segmentation.<br>
 </p>
 
@@ -469,9 +469,9 @@ function paper7_func(){
 
 
 <p style= "font-size:13px"> 
-<i><b>Purpose&nbsp;</b></i> Radioactive seeds implantation is an effective invasive treatment method for malignant liver tumor in hepatocellular carcinomas. However, the accuracy of the therapy is highly dependent upon surgeon’s experience. This paper aims to develop a robotic system in assisting surgeons in performing brachytherapy on liver tumor, which is characterized by high-accuracy, multiple degrees of freedom (DoF) and multimodal feedback.<br>
-<i><b>Methods&nbsp;</b></i> We present a novel interventional robotic system, which consists of a 5-DoF positioning robotic arm (a 3-DoF translational joint and a 2-DoF revolute joint) and a needle actuator used for needle insertion and radioactive seeds implantation. To ensure the safety of the motion, control strategy is designed for the system, where the motion planning is performed by artificial potential field approach and the ultrasound-image based contacting method is discussed in this paper.<br>
-<i><b>Results&nbsp;</b></i> Experiments were performed to evaluate position and orientation accuracy as well as validate the motion planning procedure of the system. The accuracy of positioning with and without rotation is 0.66±0.49 mm and 0.88±0.49mm, respectively. Orientation accuracy on the revolute joint is±0.2 degree and±0.1 degree, respectively. Needle placement accuracy is 1.1±0.5 mm. The feasibility of the control strategy is demonstrated by simulation and experiments based on an abdominal phantom.<br>
+<i><b>Purpose&nbsp;</b></i> Radioactive seeds implantation is an effective invasive treatment method for malignant liver tumor in hepatocellular carcinomas. However, the accuracy of the therapy is highly dependent upon surgeon’s experience. This paper aims to develop a robotic system in assisting surgeons in performing brachytherapy on liver tumor, which is characterized by high-accuracy, multiple degrees of freedom (DoF) and multimodal feedback.<br><br>
+<i><b>Methods&nbsp;</b></i> We present a novel interventional robotic system, which consists of a 5-DoF positioning robotic arm (a 3-DoF translational joint and a 2-DoF revolute joint) and a needle actuator used for needle insertion and radioactive seeds implantation. To ensure the safety of the motion, control strategy is designed for the system, where the motion planning is performed by artificial potential field approach and the ultrasound-image based contacting method is discussed in this paper.<br><br>
+<i><b>Results&nbsp;</b></i> Experiments were performed to evaluate position and orientation accuracy as well as validate the motion planning procedure of the system. The accuracy of positioning with and without rotation is 0.66±0.49 mm and 0.88±0.49mm, respectively. Orientation accuracy on the revolute joint is±0.2 degree and±0.1 degree, respectively. Needle placement accuracy is 1.1±0.5 mm. The feasibility of the control strategy is demonstrated by simulation and experiments based on an abdominal phantom.<br><br>
 <i><b>Conclusion&nbsp;</b></i> This paper presents a robotic system with force and US image feedback in assisting surgeons performing brachytherapy on liver tumor. The proposed robotic system is capable of executing an accurate needle insertion task while ensuring safe robotic motion to the patient under the feedback of the optical tracking system and US-image.<br>
 </p>
 
