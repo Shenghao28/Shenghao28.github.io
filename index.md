@@ -1,6 +1,4 @@
 
-<html>
-
 <body>
 
 <div id="menu" style="width:80%;float:left;text-align:justify;">
@@ -240,10 +238,3 @@ function paper2_func(){
 
 
 </body>
-
----
-
-</html>
-
-
-
