@@ -4,7 +4,7 @@
 <div id="menu" style="width:80%;float:left;text-align:justify;">
 <p style= "font-size:16px">
 My name is Shenghao Jiang. I am currently a research intern in the Department of Interventional Radiology, Zhongda Hospital of Southeast University. I am supervised by Professor  <a href=" https://www.seu.edu.cn/english/2018/0823/c237a235748/page.htm">Gaojun Teng</a>, Chair of Chinese Interventionalists Association, and Professor  <a href=" http://english.siat.cas.cn/SI2017/IBHE2017/RC2/CIB_20537/Researchers1/201707/t20170729_181522.html">Shoujun Zhou</a>
- from Center for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. <br> Currently I am working on <b>sensing and control for image-guided robotic intervention</b>. The amazing ability of robotic technology can reduce patient's pain, aid surgeon/interventionalist to perform operation previous impossible, and achieve better surgical outcome. I am looking forward to contributing my effort to this area.</p><br><br>
+ from Center for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. <br><br> Currently I am working on <b>sensing and control for image-guided robotic intervention</b>. The amazing ability of robotic technology can reduce patient's pain, aid surgeon/interventionalist to perform operation previous impossible, and achieve better surgical outcome. I am looking forward to contributing my effort to this area.</p><br><br>
 
 </div>
 
@@ -103,7 +103,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_proj1{
   width:100%;
-  height:200px;
+  height:130px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -119,7 +119,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_proj2{
   width:100%;
-  height:200px;
+  height:180px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -361,7 +361,7 @@ function paper7_func(){
 <font size="3"><b>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy.</b>  <br><br> &nbsp;&nbsp;&nbsp;&nbsp; <i>Funding:National Key R&D program of China No.2018YFA0704102<br><br></i></font>
 <input type="button" id="bt_proj1" value="+" onclick="proj1_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD) </font>
 <div id="div_proj1" >
-<p style= "font-size:13px"> &nbsp;&nbsp;&nbsp;&nbsp; &#8226;Developing clinically-meaningful guidewire segmentation algorithm to provide the intervention robot with visual feedback<br><br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;Developing inverse reinforcement learning based algorithm to have the intervention robot perform autonomous guidewire operation in phantom based on visual and haptic feedback 
+<p style= "font-size:13px"> <br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;&nbsp;&nbsp;Developing clinically-meaningful guidewire segmentation algorithm to provide the intervention robot with visual feedback<br><br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;&nbsp;&nbsp;Developing inverse reinforcement learning based algorithm to have the intervention robot perform autonomous guidewire operation in phantom based on visual and haptic feedback 
 </p>
 </div>
 </div>
@@ -394,7 +394,7 @@ function paper7_func(){
 <input type="button" id="bt_proj2" value="+" onclick="proj2_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Tiexiang Wen, Prof. Shoujun Zhou </font>
 <div id="div_proj2" >
 
-<p style= "font-size:13px"> &nbsp;&nbsp;&nbsp;&nbsp; &#8226;Developing needle segmentation algorithm to agument the brachytherapy robot's visual servoing ability for precise needle manipulation <br><br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;Developing visual servoing algorithm to have the brachytherapy robot perform autonomous needle operation in phantom based on ultrasound and haptic feedback <br><br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;Developing safety contacting strategy based on real-time US image
+<p style= "font-size:13px"> <br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;&nbsp;&nbsp;Developing needle segmentation algorithm to agument the brachytherapy robot's visual servoing ability for precise needle manipulation <br><br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;&nbsp;&nbsp;Developing visual servoing algorithm to have the brachytherapy robot perform autonomous needle operation in phantom based on ultrasound and haptic feedback <br><br>&nbsp;&nbsp;&nbsp;&nbsp; &#8226;&nbsp;&nbsp;Developing safety contacting strategy based on real-time US image
  to have the brachytherapy robot intelligently touch the surface with consistly maximum ultrasound image quality
 </p>
 
