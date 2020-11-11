@@ -130,11 +130,11 @@ function xx(){
   
     if(odiv.style.display=="block"){
        odiv.style.display="none";
-      obt.value="abstract";
+      obt.value="+";
     }
     else{
      odiv.style.display="block";
-      obt.value="abstract";
+      obt.value="+";
     }
 }
 function proj1_func(){
