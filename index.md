@@ -53,7 +53,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:100%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <p style= "font-size:14px">B.Sc. in Telecommunication Engineering</p>
+<p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp; &#8226; B.Sc. in Telecommunication Engineering</p>
 </div>
 
 <div id="Rank" style="width:65%;float:left;">
