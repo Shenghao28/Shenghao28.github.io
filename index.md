@@ -554,9 +554,29 @@ function paper7_func(){
 <font size="4" color="green">Honors & Awards<br><br></font>
 </div>
 
+<div id="degree1" style="width:100%;float:left;">
+<p style= "font-size:15px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226;  2015 Microsoft Imagine Cup Worldwide Competition (China region) Top 6 among 2, 000+ teams </p>
+<p style= "font-size:15px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226;  2016 International Mathematical Contest in Modeling 1st Prize  </p>
+<p style= "font-size:15px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226;  2015 Beijing Undergraduate Mathematics Competition 1st Prize  </p>
+<p style= "font-size:15px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226;  2015 Beijing Undergraduate Physics Competition 2nd Prize   </p>
+<p style= "font-size:15px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226;  2015 National Undergraduate Electronics Design Contest (Beijing area) 2nd Prize  </p>
+<p style= "font-size:15px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226;  2013 2014 2015 University Scholarship First – class Honor  </p>
+<p style= "font-size:15px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226;  2016 Outstanding Graduate of Beijing City </p>
+</div>
+
 </body>
 
 ---
+
+&ensp;&ensp;
+
+&ensp;&ensp;
+
+&ensp;&ensp;
+
+&ensp;&ensp;
+
+&ensp;&ensp;
 
 &ensp;&ensp;
 
