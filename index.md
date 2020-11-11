@@ -22,7 +22,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <body>
 
 <div id="title1" style="width:100%;float:left;">
-<font size="5" color="green">Academic Background</font><br>
+<font size="4" color="green">Education Background</font><br>
 </div>
 
 <div id="back1" style="width:65%;float:left;">
@@ -32,37 +32,37 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time1" style="width:35%;float:left;text-align:right;">
-2017.07 ~ 2019.07
+<font size="2">2017.07 ~ 2019.07</font>
 </div>
 
 <div id="time2" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; M.Sc. in Engineering Science: Electrical Engineering<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<font size="2"> M.Sc. in Engineering Science: Electrical Engineering</font><br><br>
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
-GPA: 3.93/4.0
+<font size="2">GPA: 3.93/4.0</font>
 </div>
 
-<div id="back2" style="width:75%;float:left;">
+<div id="back2" style="width:80%;float:left;">
 
 <font size="2"><b>Beijing University of Posts and Telecommunications  (China’s Top-2 in telecommunication technology) </b></font>
 
 </div>
 
-<div id="time2" style="width:25%;float:left;text-align:right;">
-2012.09 ~ 2016.06
+<div id="time2" style="width:20%;float:left;text-align:right;"></font>
+<font size="2">2012.09 ~ 2016.06</font>
 </div>
 
 <div id="time2" style="width:100%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; B.Sc. in Telecommunication Engineering
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <font size="2">B.Sc. in Telecommunication Engineering</font>
 </div>
 
 <div id="Rank" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; Rank: <b> 2/596 </b>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <font size="2">Rank: <b> 2/596 </b></font>
 </div>
 
 <div id="GPA2" style="width:35%;float:left;">
-GPA: 95.9/100.0
+<font size="2">GPA: 95.9/100.0</font>
 </div>
 
 </body>
