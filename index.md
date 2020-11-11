@@ -125,11 +125,11 @@ function proj1_func(){
   
     if(odiv.style.display=="block"){
        odiv.style.display="none";
-      obt.value="+My Contribution";
+      obt.value="+";
     }
     else{
      odiv.style.display="block";
-      obt.value="+My Contribution";
+      obt.value="+";
     }
 }
 </script>
