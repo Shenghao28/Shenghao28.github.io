@@ -285,3 +285,11 @@ function paper2_func(){
 </body>
 
 ---
+
+<body>
+	
+<div id="title3" style="width:100%;float:left;">
+<font size="4" color="green">Honors & Awards<br><br></font>
+</div>
+
+</body>
