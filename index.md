@@ -222,7 +222,7 @@ function proj2_func(){
 [Journal]</div>
 
 <div id="paper1" style="height:200px;width:70%;float:left;text-align:justify;">
-<font size="3"><b>Anna</b>, Tom. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>International Journal of Computer-Assisited Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
+<font size="3"><b>Anna</b>, Tom. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>&nbsp;International Journal of Computer-Assisited Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
 <input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div1" >A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
 </div>
