@@ -1,4 +1,6 @@
 
+<html>
+
 <body>
 
 <div id="menu" style="width:80%;float:left;text-align:justify;">
@@ -239,8 +241,12 @@ function paper2_func(){
 
 </body>
 
-
 ---
+
+</html>
+
+
+
 ### 最新消息
 1. 消息1×××
 ### 研究方向
