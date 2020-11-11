@@ -145,17 +145,17 @@ function proj1_func(){
 <font size="4" color="green">Research Project</font>
 </div>
 
-<div id="proj1_index" style="width:5%;float:left;text-align:justify;">
+<div id="proj1_index" style="height:200px;width:5%;float:left;text-align:justify;">
 <font size="3">[1]</font></div>
 
-<div id="proj1" style="width:77%;float:left;text-align:justify;">
+<div id="proj1" style="height:200px;width:77%;float:left;text-align:justify;">
 <font size="3"><br>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy.  &nbsp;&nbsp;&nbsp; <i>(National Key R&D program of China No.2018YFA0704102)<br></i></font>
 <input type="button" id="bt_proj1" value="+" onclick="proj1_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou </font>
 <div id="div_proj1" >This is a project.
 </div>
 </div>
 
-<div id="proj_img1" style="width:18%;float:left;">
+<div id="proj_img1" style="height:200px;width:18%;float:left;">
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
