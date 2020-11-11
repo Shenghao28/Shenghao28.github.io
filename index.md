@@ -36,11 +36,11 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<p style= "font-size:14px"> M.Sc. in Engineering Science: Electrical Engineering</p>
+<p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226; M.Sc. in Engineering Science: Electrical Engineering</p>
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
-<p style= "font-size:14px">GPA: 3.93/4.0</font><br><br>
+<p style= "font-size:14px">GPA: 3.93/4.0<br><br>
 </div>
 
 <div id="back2" style="width:85%;float:left;">
@@ -57,7 +57,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="Rank" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <p style= "font-size:14px">Rank: <b> 2/596 </b></p><br>
+<p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp; &#8226; Rank: <b> 2/596 </b></p><br>
 </div>
 
 <div id="GPA2" style="width:35%;float:left;">
