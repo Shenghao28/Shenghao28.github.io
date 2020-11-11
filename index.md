@@ -82,8 +82,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -98,8 +98,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_paper2{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -114,8 +114,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_proj1{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -130,8 +130,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_proj2{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -147,8 +147,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_paper3{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -164,8 +164,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_paper4{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -181,8 +181,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_paper5{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -198,8 +198,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_paper6{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
@@ -215,8 +215,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_paper7{
-  width:1%;
-  height:18px;
+  width:3%;
+  height:22px;
   background:#FFFFFF;
   border-style: none;
   color:#FF0000;
