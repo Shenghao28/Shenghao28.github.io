@@ -365,7 +365,7 @@ function paper7_func(){
 </div>
 
 <div id="proj_img1" style="height:200px;width:18%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/proj1.png" width="100%">
 </div>
 
 </body>
@@ -395,7 +395,7 @@ function paper7_func(){
 </div>
 
 <div id="proj_img1" style="height:200px;width:18%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/proj2.png" width="100%">
 </div>
 
 
@@ -420,7 +420,7 @@ function paper7_func(){
 </div>
 
 <div id="paper1_img" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/paper1.png" width="100%">
 </div>
 
 <div id="title_paper1_paper2" style="width:100%;float:left;">
@@ -438,7 +438,7 @@ function paper7_func(){
 </div>
 
 <div id="paper2_img" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/paper2.png" width="100%">
 </div>
 
 <div id="title_paper2_paper3" style="width:100%;float:left;">
@@ -456,7 +456,7 @@ function paper7_func(){
 </div>
 
 <div id="paper3_img" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/paper3.png" width="100%">
 </div>
 
 
@@ -475,7 +475,7 @@ function paper7_func(){
 </div>
 
 <div id="paper4_img" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/paper4.png" width="100%">
 </div>
 
 <div id="title_paper4_paper7" style="width:100%;float:left;">
@@ -493,7 +493,7 @@ function paper7_func(){
 </div>
 
 <div id="paper7_img" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/paper7.png" width="100%">
 </div>
 
 
@@ -512,7 +512,7 @@ function paper7_func(){
 </div>
 
 <div id="paper5_img" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/paper5.png" width="100%">
 </div>
 
 
@@ -531,7 +531,7 @@ function paper7_func(){
 </div>
 
 <div id="paper6_img" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/paper6.png" width="100%">
 </div>
 
 <div id="title_paper6_paper7" style="width:100%;float:left;">
