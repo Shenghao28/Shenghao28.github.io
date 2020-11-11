@@ -100,6 +100,22 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   color:#FF0000;
 }
 
+#div_proj2{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_proj2{
+  width:1%;
+  height:18px;
+  background:#FFFFFF;
+  border-style: none;
+  color:#FF0000;
+}
+
 .FONT1BUTTON{
 font-size: 100%;
 }
@@ -123,6 +139,19 @@ function xx(){
 function proj1_func(){
   var obt=document.getElementById("bt_proj1");
   var odiv=document.getElementById("div_proj1");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="+";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="+";
+    }
+}
+function proj2_func(){
+  var obt=document.getElementById("bt_proj2");
+  var odiv=document.getElementById("div_proj2");
   
     if(odiv.style.display=="block"){
        odiv.style.display="none";
@@ -159,7 +188,19 @@ function proj1_func(){
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
+<div id="proj2_index" style="width:3%;float:left;text-align:justify;">
+<font size="3">[2]</font></div>
 
+<div id="proj2" style="width:79%;float:left;text-align:justify;">
+<font size="3"><b>Cerebrovascular real-time interventional therapy with mobile surgical robot system.</b>  &nbsp;&nbsp;&nbsp; <i>(The National High Technology Research And Development Program Of China No.2015AA043203)<br><br></i></font>
+<input type="button" id="bt_proj2" value="+" onclick="proj2_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Tiexiang Wen, Prof. Shoujun Zhou </font>
+<div id="div_proj2" >This is a project2.
+</div>
+</div>
+
+<div id="proj_img1" style="height:200px;width:18%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+</div>
 
 
 </body>
