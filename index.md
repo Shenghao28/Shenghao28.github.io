@@ -145,7 +145,7 @@ function proj1_func(){
 </div>
 
 <div id="proj1" style="width:80%;float:left;text-align:justify;">
-<p style= "font-size:14px">Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy <br><br><i>National Key R&D program of China (No.2018YFA0704102)</i><br><br></p>
+<p style= "font-size:14px"><br>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy <br><br><i>National Key R&D program of China (No.2018YFA0704102)</i><br><br></p>
 <input type="button" id="bt_proj1" value="+My Contribution" onclick="proj1_func()"/> <p style= "font-size:14px"> Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD)</p>
 <div id="div_proj1" >This is a project.
 </div>
