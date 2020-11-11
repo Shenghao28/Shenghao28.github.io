@@ -133,6 +133,91 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   color:#FF0000;
 }
 
+
+#div_proj3{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_proj3{
+  width:1%;
+  height:18px;
+  background:#FFFFFF;
+  border-style: none;
+  color:#FF0000;
+}
+
+
+#div_proj4{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_proj4{
+  width:1%;
+  height:18px;
+  background:#FFFFFF;
+  border-style: none;
+  color:#FF0000;
+}
+
+
+#div_proj5{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_proj5{
+  width:1%;
+  height:18px;
+  background:#FFFFFF;
+  border-style: none;
+  color:#FF0000;
+}
+
+
+#div_proj6{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_proj6{
+  width:1%;
+  height:18px;
+  background:#FFFFFF;
+  border-style: none;
+  color:#FF0000;
+}
+
+
+#div_proj7{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_proj7{
+  width:1%;
+  height:18px;
+  background:#FFFFFF;
+  border-style: none;
+  color:#FF0000;
+}
+
 .FONT1BUTTON{
 font-size: 100%;
 }
@@ -182,6 +267,71 @@ function proj2_func(){
 function paper2_func(){
   var obt=document.getElementById("bt_paper2");
   var odiv=document.getElementById("div_paper2");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="+";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="+";
+    }
+}
+function paper3_func(){
+  var obt=document.getElementById("bt_paper3");
+  var odiv=document.getElementById("div_paper3");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="+";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="+";
+    }
+}
+function paper4_func(){
+  var obt=document.getElementById("bt_paper4");
+  var odiv=document.getElementById("div_paper4");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="+";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="+";
+    }
+}
+function paper5_func(){
+  var obt=document.getElementById("bt_paper5");
+  var odiv=document.getElementById("div_paper5");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="+";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="+";
+    }
+}
+function paper6_func(){
+  var obt=document.getElementById("bt_paper6");
+  var odiv=document.getElementById("div_paper6");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="+";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="+";
+    }
+}
+function paper7_func(){
+  var obt=document.getElementById("bt_paper7");
+  var odiv=document.getElementById("div_paper7");
   
     if(odiv.style.display=="block"){
        odiv.style.display="none";
@@ -283,6 +433,103 @@ function paper2_func(){
 <font size="4"> <br> </font>
 </div>
 
+<div id="journal3_type" style="width:10%;float:left;text-align:justify;">
+[Journal]</div>
+
+<div id="paper3" style="width:70%;float:left;text-align:justify;">
+<font size="3"> Xiaofeng Lin, Cheng Wang, <b>Shenghao Jiang</b>, Tiexiang Wen, Shoujun Zhou. <b> A novel multi-DOF surgical robotic system for brachytherapy on liver tumor: Design and control.</b><i>&nbsp; International Journal of Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> 
+<input type="button" id="bt_paper3" value="+" onclick="paper3_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<div id="div_paper3" >Paper3
+</div>
+</div>
+
+<div id="paper3_img" style="width:20%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+</div>
+
+
+<div id="title_paper3_paper4" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
+
+<div id="journal4_type" style="width:15%;float:left;text-align:justify;">
+[Conference]</div>
+
+<div id="paper4" style="width:65%;float:left;text-align:justify;">
+<font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> Optimal Control of Urban Intersection Scheduling for Connected Automated Vehicle.</b><i> &nbsp; IEEE 31st Intelligent Vehicles Symposium (IV 2020) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
+<input type="button" id="bt_paper4" value="+" onclick="paper4_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<div id="div_paper4" >Paper4
+</div>
+</div>
+
+<div id="paper4_img" style="width:20%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+</div>
+
+<div id="title_paper4_paper7" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
+
+<div id="journal7_type" style="width:15%;float:left;text-align:justify;">
+[Conference]</div>
+
+<div id="paper7" style="width:65%;float:left;text-align:justify;">
+<font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> An Interactive Lane Change Decision Making Model With Deep Reinforcement Learning.</b><i> &nbsp;  IROS Workshop on Fast Neural Perception and Learning for Intelligent Vehicles (IROS 2019) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
+<input type="button" id="bt_paper7" value="+" onclick="paper7_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<div id="div_paper7" >Paper7
+</div>
+</div>
+
+<div id="paper7_img" style="width:20%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+</div>
+
+
+<div id="title_paper7_paper5" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
+
+<div id="journal5_type" style="width:15%;float:left;text-align:justify;">
+[Conference]</div>
+
+<div id="paper5" style="width:65%;float:left;text-align:justify;">
+<font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> A Cognitive Urban Collision Avoidance Framework Based on Agents Priority Using Recurrent Neural Network.</b><i> &nbsp; IEEE 19th International Conference on Advanced Robotics (ICAR 2019) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
+<input type="button" id="bt_paper5" value="+" onclick="paper5_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<div id="div_paper5" >Paper5
+</div>
+</div>
+
+<div id="paper5_img" style="width:20%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+</div>
+
+
+<div id="title_paper5_paper6" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
+
+<div id="journal6_type" style="width:15%;float:left;text-align:justify;">
+[Conference]</div>
+
+<div id="paper6" style="width:65%;float:left;text-align:justify;">
+<font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> Localization – guaranteed navigation in GPS-denied environment via multi-UAV closed-loop coordination.</b><i> &nbsp; IEEE 41st Aerospace Conference (AERO 2020) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
+<input type="button" id="bt_paper6" value="+" onclick="paper6_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<div id="div_paper6" >Paper6
+</div>
+</div>
+
+<div id="paper6_img" style="width:20%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+</div>
+
+<div id="title_paper6_paper7" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
+
+
+<div id="title_paper5_paper6" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
 
 
 </body>
