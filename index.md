@@ -147,7 +147,7 @@ function proj1_func(){
 
 <div id="proj1" style="width:80%;float:left;text-align:justify;">
 <p style= "font-size:16px"><br>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy.  &nbsp;&nbsp;&nbsp; <i>(National Key R&D program of China No.2018YFA0704102)<br></i></p>
-<input type="button" id="bt_proj1" value="+" class=".FONT1BUTTON" onclick="proj1_func()"/><font size="3">My Contribution  &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD) </font>
+<input type="button" id="bt_proj1" value="+" class=".FONT1BUTTON" onclick="proj1_func()"/><font size="3">My Contribution  &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MDs) </font>
 <div id="div_proj1" >This is a project.
 </div>
 </div>
