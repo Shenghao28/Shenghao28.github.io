@@ -2,14 +2,14 @@
 <body>
 
 <div id="menu" style="width:80%;float:left;text-align:justify;">
-<p style= "font-size:14px">
+<p style= "font-size:16px">
 My name is Shenghao Jiang. I am currently a research intern in the Department of Interventional Radiology, Zhongda Hospital of Southeast University. I am supervised by Professor  <a href=" https://www.seu.edu.cn/english/2018/0823/c237a235748/page.htm">Gaojun Teng</a>, Chair of Chinese Interventionalists Association, and Professor  <a href=" http://english.siat.cas.cn/SI2017/IBHE2017/RC2/CIB_20537/Researchers1/201707/t20170729_181522.html">Shoujun Zhou</a>
  from Center for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. Currently I am working on <b>sensing and control for image-guided robotic intervention</b>. The amazing ability of robotic technology can reduce patient's pain, aid surgeon/interventionalist to perform operation previous impossible, and achieve better surgical outcome. I am looking forward to contributing my effort to this areadgfgdsfgfg.</p><br><br>
 
 </div>
 
 <div id="content" style="width:20%;float:left;">
-<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+<img style="float:left;" src="/me.jpg" width="100%">
 </div>
 
 
@@ -413,7 +413,7 @@ function paper7_func(){
 [Journal]</div>
 
 <div id="paper1" style="width:70%;float:left;text-align:justify;">
-<font size="3"><b>Shenghao Jiang</b>, Anna Sitong Teng, Jian Lu, Cheng Wang, Tiexiang Wen, Gaojun Teng. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>&nbsp;International Journal of Computer-Assisited Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
+<font size="3"><b>Shenghao Jiang</b>, Anna Sitong Teng, Jian Lu, Cheng Wang, Tiexiang Wen, Gaojun Teng. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>&nbsp;International Journal of Computer-Assisited Radiology and Surgery (IJCARS). </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
 <input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font>  
 <div id="div1" >
 <p style= "font-size:13px"> 
@@ -437,7 +437,7 @@ function paper7_func(){
 [Journal]</div>
 
 <div id="paper2" style="width:70%;float:left;text-align:justify;">
-<font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
+<font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery (IJMRCAS). </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
 <input type="button" id="bt_paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font> 
 <div id="div_paper2" >
 
@@ -463,7 +463,7 @@ function paper7_func(){
 [Journal]</div>
 
 <div id="paper3" style="width:70%;float:left;text-align:justify;">
-<font size="3"> Xiaofeng Lin, Cheng Wang, <b>Shenghao Jiang</b>, Tiexiang Wen, Shoujun Zhou. <b> A novel multi-DOF surgical robotic system for brachytherapy on liver tumor: Design and control.</b><i>&nbsp; International Journal of Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> 
+<font size="3"> Xiaofeng Lin, Cheng Wang, <b>Shenghao Jiang</b>, Tiexiang Wen, Shoujun Zhou. <b> A novel multi-DOF surgical robotic system for brachytherapy on liver tumor: Design and control.</b><i>&nbsp; International Journal of Computer-Assisted Radiology and Surgery (IJCARS). </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> 
 <input type="button" id="bt_paper3" value="+" onclick="paper3_func()"/><font size="3">Abstract</font>  
 <div id="div_paper3" >
 
