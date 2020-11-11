@@ -35,16 +35,15 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <p style= "font-size:14px">2017.07 ~ 2019.07</p>
 </div>
 
-<div id="time2" style="width:65%;float:left;">
+<div id="degree1" style="width:65%;float:left;">
 <p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226; M.Sc. in Engineering Science: Electrical Engineering</p>
 </div>
 
-<div id="GPA" style="width:35%;float:left;">
-<p style= "font-size:14px">GPA: 3.93/4.0<br><br>
+<div id="GPA1" style="width:35%;float:left;">
+<p style= "font-size:14px">GPA: 3.93/4.0<br><br></p>
 </div>
 
 <div id="back2" style="width:85%;float:left;">
-
 <p style= "font-size:14px"><b>Beijing University of Posts and Telecommunications (China’s Top-2 in telecommunication technology) </b></p>
 </div>
 
@@ -52,7 +51,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <p style= "font-size:13px">2012.09 ~ 2016.06</p>
 </div>
 
-<div id="time2" style="width:100%;float:left;">
+<div id="degree2" style="width:100%;float:left;">
 <p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp; &#8226; B.Sc. in Telecommunication Engineering</p>
 </div>
 
