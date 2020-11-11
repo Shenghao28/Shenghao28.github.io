@@ -12,19 +12,11 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
-</body>
 
----
-
-<body>
 
 <div id="site end" style="width:100%;float:left;">
 </div>
-</body>
 
----
-
-<body>
 
 
 <div id="menu2" style="width:80%;float:left;text-align:justify;">
@@ -37,11 +29,6 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
-</body>
-
----
-
-<body>
 
 <div id="site end2" style="width:100%;float:left;">
 </div>
