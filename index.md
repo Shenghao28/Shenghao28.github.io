@@ -22,12 +22,12 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <body>
 
 <div id="title1" style="width:100%;float:left;">
-<font size="4" color="green">Education Background</font><br>
+<font size="4" color="green">Education Background</font>
 </div>
 
 <div id="back1" style="width:65%;float:left;">
 
-<font size="2"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></font>
+<br><font size="2"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></font>
 
 </div>
 
@@ -36,7 +36,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<font size="2"> M.Sc. in Engineering Science: Electrical Engineering</font><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<font size="2"> M.Sc. in Engineering Science: Electrical Engineering</font><br>
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
@@ -46,10 +46,9 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <div id="back2" style="width:80%;float:left;">
 
 <font size="2"><b>Beijing University of Posts and Telecommunications  (China’s Top-2 in telecommunication technology) </b></font>
-
 </div>
 
-<div id="time2" style="width:20%;float:left;text-align:right;"></font>
+<div id="time2" style="width:20%;float:left;text-align:right;">
 <font size="2">2012.09 ~ 2016.06</font>
 </div>
 
@@ -58,7 +57,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="Rank" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <font size="2">Rank: <b> 2/596 </b></font>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <font size="2">Rank: <b> 2/596 </b></font><br>
 </div>
 
 <div id="GPA2" style="width:35%;float:left;">
