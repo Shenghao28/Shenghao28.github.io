@@ -70,7 +70,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <style type="text/css">
 	
 #div1{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -86,7 +86,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #div_paper2{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -102,7 +102,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #div_proj1{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -118,7 +118,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #div_proj2{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -135,7 +135,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 
 #div_paper3{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -152,7 +152,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 
 #div_paper4{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -169,7 +169,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 
 #div_paper5{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -186,7 +186,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 
 #div_paper6{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -203,7 +203,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 
 #div_paper7{
-  width:75%;
+  width:100%;
   height:200px;
   background:#DCDCDC;
   opacity:0.99;
@@ -365,7 +365,7 @@ function paper7_func(){
 </div>
 
 <div id="proj_img1" style="height:200px;width:18%;float:left;">
-<img style="float:left;" src="/proj1.png" width="100%">
+<img style="float:left;" src="/proj1.jpg" width="100%">
 </div>
 
 </body>
@@ -395,7 +395,7 @@ function paper7_func(){
 </div>
 
 <div id="proj_img1" style="height:200px;width:18%;float:left;">
-<img style="float:left;" src="/proj2.png" width="100%">
+<img style="float:left;" src="/proj2.jpg" width="100%">
 </div>
 
 
@@ -420,7 +420,7 @@ function paper7_func(){
 </div>
 
 <div id="paper1_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper1.png" width="100%">
+<img style="float:left;" src="/paper1.jpg" width="100%">
 </div>
 
 <div id="title_paper1_paper2" style="width:100%;float:left;">
@@ -438,7 +438,7 @@ function paper7_func(){
 </div>
 
 <div id="paper2_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper2.png" width="100%">
+<img style="float:left;" src="/paper2.jpg" width="100%">
 </div>
 
 <div id="title_paper2_paper3" style="width:100%;float:left;">
@@ -456,7 +456,7 @@ function paper7_func(){
 </div>
 
 <div id="paper3_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper3.png" width="100%">
+<img style="float:left;" src="/paper3.jpg" width="100%">
 </div>
 
 
@@ -475,7 +475,7 @@ function paper7_func(){
 </div>
 
 <div id="paper4_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper4.png" width="100%">
+<img style="float:left;" src="/paper4.jpg" width="100%">
 </div>
 
 <div id="title_paper4_paper7" style="width:100%;float:left;">
@@ -488,12 +488,12 @@ function paper7_func(){
 <div id="paper7" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> An Interactive Lane Change Decision Making Model With Deep Reinforcement Learning.</b><i> &nbsp;  IROS Workshop on Fast Neural Perception and Learning for Intelligent Vehicles (IROS 2019) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
 <input type="button" id="bt_paper7" value="+" onclick="paper7_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div_paper7" >Paper7
+<div id="div_paper7" ><p style= "font-size:13px"> By considering lane change maneuver as primarily a Partial Observed Markov Decision Process (POMDP) and motion planning problem, this paper presents an interactive model with a Recurrent Neural Network (RNN) approach to determine the adversarial or cooperative intention probability of following vehicle in target lane. To make proper and efficient lane change decision, Deep Q-value network (DQN) is applied to solve POMDP with expected global maximum reward. Then quintic polynomials-based motion planning algorithm is used to obtain both optimal lateral and longitudinal trajectory for autonomous vehicle to pursuit. Experimental results demonstrate the capability of the proposed model to execute lane change maneuver with comfortable and safety reference trajectory at an appropriate time instance and traffic gap in various highway traffic scenarios.</p>
 </div>
 </div>
 
 <div id="paper7_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper7.png" width="100%">
+<img style="float:left;" src="/paper7.jpg" width="100%">
 </div>
 
 
@@ -512,7 +512,7 @@ function paper7_func(){
 </div>
 
 <div id="paper5_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper5.png" width="100%">
+<img style="float:left;" src="/paper5.jpg" width="100%">
 </div>
 
 
@@ -531,7 +531,7 @@ function paper7_func(){
 </div>
 
 <div id="paper6_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper6.png" width="100%">
+<img style="float:left;" src="/paper6.jpg" width="100%">
 </div>
 
 <div id="title_paper6_paper7" style="width:100%;float:left;">
@@ -599,7 +599,5 @@ function paper7_func(){
 &ensp;&ensp;
 
 &ensp;&ensp;
-
-### ABC
 
 ---
