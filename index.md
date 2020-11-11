@@ -43,13 +43,13 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <font size="2">GPA: 3.93/4.0</font><br><br>
 </div>
 
-<div id="back2" style="width:80%;float:left;">
+<div id="back2" style="width:85%;float:left;">
 
-<p style= "font-size:14px"><b>Beijing University of Posts and Telecommunications  (China’s Top-2 in telecommunication technology) </b></p>
+<p style= "font-size:14px"><b>Beijing University of Posts and Telecommunications (China’s Top-2 in telecommunication technology) </b></p>
 </div>
 
-<div id="time2" style="width:20%;float:left;text-align:right;">
-<font size="2">2012.09 ~ 2016.06</font>
+<div id="time2" style="width:15%;float:left;text-align:right;">
+<p style= "font-size:12px">2012.09 ~ 2016.06</p>
 </div>
 
 <div id="time2" style="width:100%;float:left;">
