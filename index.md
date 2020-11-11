@@ -26,9 +26,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="back1" style="width:65%;float:left;">
-
-<p style= "font-size:14px"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></p>
-
+<p style= "font-size:14px"><br><b>Harvard University, School of Engineering and Applied Sciences, USA</b></p>
 </div>
 
 <div id="time1" style="width:35%;float:left;text-align:right;">
@@ -40,7 +38,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="GPA1" style="width:35%;float:left;">
-<p style= "font-size:14px">GPA: 3.93/4.0<br><br></p>
+<p style= "font-size:14px">GPA: 3.93/4.0<br></p>
 </div>
 
 <div id="back2" style="width:85%;float:left;">
@@ -48,7 +46,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:15%;float:left;text-align:right;">
-<p style= "font-size:13px">2012.09 ~ 2016.06</p>
+<p style= "font-size:14px">2012.09 ~ 2016.06</p>
 </div>
 
 <div id="degree2" style="width:100%;float:left;">
@@ -60,7 +58,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="GPA2" style="width:35%;float:left;">
-<p style= "font-size:14px">GPA: 95.9/100.0</p><br><br>
+<p style= "font-size:14px">GPA: 95.9/100.0</p><br>
 </div>
 
 </body>
