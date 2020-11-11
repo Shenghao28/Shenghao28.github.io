@@ -178,7 +178,7 @@ function proj2_func(){
 <font size="3">[1]</font></div>
 
 <div id="proj1" style="width:79%;float:left;text-align:justify;">
-<font size="3"><b>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy.</b>  <br> &nbsp;&nbsp;&nbsp;&nbsp; <i>Funding:National Key R&D program of China No.2018YFA0704102<br><br></i></font>
+<font size="3"><b>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy.</b>  <br><br> &nbsp;&nbsp;&nbsp;&nbsp; <i>Funding:National Key R&D program of China No.2018YFA0704102<br><br></i></font>
 <input type="button" id="bt_proj1" value="+" onclick="proj1_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD) </font>
 <div id="div_proj1" >This is a project.
 </div>
@@ -196,7 +196,7 @@ function proj2_func(){
 <font size="3">[2]</font></div>
 
 <div id="proj2" style="width:79%;float:left;text-align:justify;">
-<font size="3"><b>Cerebrovascular real-time interventional therapy with mobile surgical robot system.</b>  <br> &nbsp;&nbsp;&nbsp;&nbsp; <i>Funding:The National High Technology R&D Program Of China No.2015AA043203<br><br></i></font>
+<font size="3"><b>Cerebrovascular real-time interventional therapy with mobile surgical robot system.</b>  <br><br> &nbsp;&nbsp;&nbsp;&nbsp; <i>Funding:The National High Technology R&D Program Of China No.2015AA043203<br><br></i></font>
 <input type="button" id="bt_proj2" value="+" onclick="proj2_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Tiexiang Wen, Prof. Shoujun Zhou </font>
 <div id="div_proj2" >This is a project2.
 </div>
