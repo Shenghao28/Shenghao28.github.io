@@ -2,9 +2,9 @@
 <body>
 
 <div id="menu" style="width:80%;float:left;text-align:justify;">
-
+<p style= "font-size:14px">
 My name is Shenghao Jiang. I am currently a research intern in the Department of Interventional Radiology, Zhongda Hospital of Southeast University. I am supervised by Professor  <a href=" https://www.seu.edu.cn/english/2018/0823/c237a235748/page.htm">Gaojun Teng</a>, Chair of Chinese Interventionalists Association, and Professor  <a href=" http://english.siat.cas.cn/SI2017/IBHE2017/RC2/CIB_20537/Researchers1/201707/t20170729_181522.html">Shoujun Zhou</a>
- from Center for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. Currently I am working on sensing and control for image-guided robotic intervention. The amazing ability of robotic technology can reduce patient's pain, aid surgeon/interventionalist to perform operation previous impossible, and achieve better surgical outcome. I am looking forward to contributing my effort to this areadgfgdsfgfg.<br><br>
+ from Center for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. Currently I am working on sensing and control for image-guided robotic intervention. The amazing ability of robotic technology can reduce patient's pain, aid surgeon/interventionalist to perform operation previous impossible, and achieve better surgical outcome. I am looking forward to contributing my effort to this areadgfgdsfgfg.</p><br><br>
 
 </div>
 
@@ -27,20 +27,20 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 <div id="back1" style="width:65%;float:left;">
 
-<br><font size="2"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></font>
+<p style= "font-size:14px"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></p>
 
 </div>
 
 <div id="time1" style="width:35%;float:left;text-align:right;">
-<font size="2">2017.07 ~ 2019.07</font>
+<p style= "font-size:14px">2017.07 ~ 2019.07</p>
 </div>
 
 <div id="time2" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<font size="2"> M.Sc. in Engineering Science: Electrical Engineering</font>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<p style= "font-size:14px"> M.Sc. in Engineering Science: Electrical Engineering</p>
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
-<font size="2">GPA: 3.93/4.0</font><br><br>
+<p style= "font-size:14px">GPA: 3.93/4.0</font><br><br>
 </div>
 
 <div id="back2" style="width:85%;float:left;">
@@ -49,19 +49,19 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:15%;float:left;text-align:right;">
-<p style= "font-size:12px">2012.09 ~ 2016.06</p>
+<p style= "font-size:13px">2012.09 ~ 2016.06</p>
 </div>
 
 <div id="time2" style="width:100%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <font size="2">B.Sc. in Telecommunication Engineering</font>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <p style= "font-size:14px">B.Sc. in Telecommunication Engineering</p>
 </div>
 
 <div id="Rank" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <font size="2">Rank: <b> 2/596 </b></font><br>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226; <p style= "font-size:14px">Rank: <b> 2/596 </b></p><br>
 </div>
 
 <div id="GPA2" style="width:35%;float:left;">
-<font size="2">GPA: 95.9/100.0</font><br><br>
+<p style= "font-size:14px">GPA: 95.9/100.0</p><br><br>
 </div>
 
 </body>
