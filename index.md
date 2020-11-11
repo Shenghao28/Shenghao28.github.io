@@ -5,7 +5,7 @@
 <p style= "font-size:16px">
 My name is Shenghao Jiang. I am currently a research intern in the Department of Interventional Radiology, Zhongda Hospital of Southeast University. I am supervised by Professor  <a href=" https://www.seu.edu.cn/english/2018/0823/c237a235748/page.htm">Gaojun Teng</a>, Chair of Chinese Interventionalists Association, and Professor  <a href=" http://english.siat.cas.cn/SI2017/IBHE2017/RC2/CIB_20537/Researchers1/201707/t20170729_181522.html">Shoujun Zhou</a>
  from Center for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. <br><br> Currently I am working on <b>sensing and control for image-guided robotic intervention</b>. The amazing ability of robotic technology can reduce patient's pain, aid surgeon/interventionalist to perform operation previous impossible, and achieve better surgical outcome. I am looking forward to contributing my effort to this area.<br><br>
-Email: shenghaojiang@alumni.harvard.edu or shjiangbupt@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; Phone: +86 18851954387<br><br>
+Email: shenghaojiang@alumni.harvard.edu &nbsp;&nbsp;&nbsp; <i>or</i> &nbsp;&nbsp;&nbsp; shjiangbupt@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: +86 18851954387<br><br>
 </p>
 	
 
