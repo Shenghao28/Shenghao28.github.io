@@ -134,7 +134,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 
-#div_proj3{
+#div_paper3{
   width:75%;
   height:200px;
   background:#DCDCDC;
@@ -142,7 +142,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   display:none;
 }
 
-#bt_proj3{
+#bt_paper3{
   width:1%;
   height:18px;
   background:#FFFFFF;
@@ -151,7 +151,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 
-#div_proj4{
+#div_paper4{
   width:75%;
   height:200px;
   background:#DCDCDC;
@@ -159,7 +159,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   display:none;
 }
 
-#bt_proj4{
+#bt_paper4{
   width:1%;
   height:18px;
   background:#FFFFFF;
@@ -168,7 +168,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 
-#div_proj5{
+#div_paper5{
   width:75%;
   height:200px;
   background:#DCDCDC;
@@ -176,7 +176,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   display:none;
 }
 
-#bt_proj5{
+#bt_paper5{
   width:1%;
   height:18px;
   background:#FFFFFF;
@@ -185,7 +185,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 
-#div_proj6{
+#div_paper6{
   width:75%;
   height:200px;
   background:#DCDCDC;
@@ -193,7 +193,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   display:none;
 }
 
-#bt_proj6{
+#bt_paper6{
   width:1%;
   height:18px;
   background:#FFFFFF;
@@ -202,7 +202,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 
-#div_proj7{
+#div_paper7{
   width:75%;
   height:200px;
   background:#DCDCDC;
@@ -210,7 +210,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   display:none;
 }
 
-#bt_proj7{
+#bt_paper7{
   width:1%;
   height:18px;
   background:#FFFFFF;
