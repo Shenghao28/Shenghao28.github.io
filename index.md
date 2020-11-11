@@ -27,7 +27,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 <div id="back1" style="width:65%;float:left;">
 
-<font size="1"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></font>
+<font size="2"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></font>
 
 </div>
 
@@ -43,13 +43,13 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 GPA: 3.93/4.0
 </div>
 
-<div id="back2" style="width:65%;float:left;">
+<div id="back2" style="width:75%;float:left;">
 
-<b>Beijing University of Posts and Telecommunications  (China’s Top-2 in telecommunication technology) </b>
+<font size="2"><b>Beijing University of Posts and Telecommunications  (China’s Top-2 in telecommunication technology) </b></font>
 
 </div>
 
-<div id="time2" style="width:35%;float:left;text-align:right;">
+<div id="time2" style="width:25%;float:left;text-align:right;">
 2012.09 ~ 2016.06
 </div>
 
