@@ -189,7 +189,7 @@ function proj2_func(){
 </div>
 
 <div id="title_proj1_proj2" style="width:100%;float:left;">
-<font size="4" color="green">  </font>
+<font size="4" color="green"> --- </font>
 </div>
 
 <div id="proj2_index" style="width:3%;float:left;text-align:justify;">
