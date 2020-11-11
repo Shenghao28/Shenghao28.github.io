@@ -13,55 +13,6 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
-
-
-
-</body>
-
----
-
-<body>
-
-<div id="title1" style="width:100%;float:left;">
-<font size="4" color="green">Education Background</font>
-</div>
-
-<div id="back1" style="width:65%;float:left;">
-<p style= "font-size:14px"><br><b>Harvard University, School of Engineering and Applied Sciences, USA</b></p>
-</div>
-
-<div id="time1" style="width:35%;float:left;text-align:right;">
-<p style= "font-size:14px">2017.07 ~ 2019.07</p>
-</div>
-
-<div id="degree1" style="width:65%;float:left;">
-<p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp;  &#8226; M.Sc. in Engineering Science: Electrical Engineering</p>
-</div>
-
-<div id="GPA1" style="width:35%;float:left;">
-<p style= "font-size:14px">GPA: 3.93/4.0<br></p>
-</div>
-
-<div id="back2" style="width:85%;float:left;">
-<p style= "font-size:14px"><b>Beijing University of Posts and Telecommunications (China’s Top-2 in telecommunication technology) </b></p>
-</div>
-
-<div id="time2" style="width:15%;float:left;text-align:right;">
-<p style= "font-size:14px">2012.09 ~ 2016.06</p>
-</div>
-
-<div id="degree2" style="width:100%;float:left;">
-<p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp; &#8226; B.Sc. in Telecommunication Engineering</p>
-</div>
-
-<div id="Rank" style="width:65%;float:left;">
-<p style= "font-size:14px"> &nbsp;&nbsp;&nbsp;&nbsp; &#8226; Rank: <b> 2/596 </b></p><br>
-</div>
-
-<div id="GPA2" style="width:35%;float:left;">
-<p style= "font-size:14px">GPA: 95.9/100.0</p><br>
-</div>
-
 </body>
 
 ---
