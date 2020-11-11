@@ -262,7 +262,7 @@ function paper2_func(){
 </div>
 
 <div id="title_paper1_paper2" style="width:100%;float:left;">
-<font size="4" color="green">  </font>
+<font size="4"> <br> </font>
 </div>
 
 <div id="journal2_type" style="width:10%;float:left;text-align:justify;">
@@ -279,6 +279,9 @@ function paper2_func(){
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
+<div id="title_paper2_paper3" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
 
 
 
