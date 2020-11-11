@@ -78,10 +78,11 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt{
-  width:15%;
-  height:36px;
+  width:1%;
+  height:18px;
   background:#FFFFFF;
   border-style: none;
+  color:#FF0000;
 }
 
 #div_proj1{
