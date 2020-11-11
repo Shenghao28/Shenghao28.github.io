@@ -146,7 +146,7 @@ function proj1_func(){
 </div>
 
 <div id="proj1_index" style="width:3%;float:left;text-align:justify;">
-<p style= "font-size:16px">[1]</p></div>
+<font size="3">[1]</font></div>
 
 <div id="proj1" style="width:79%;float:left;text-align:justify;">
 <p style= "font-size:16px"><br>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy.  &nbsp;&nbsp;&nbsp; <i>(National Key R&D program of China No.2018YFA0704102)<br></i></p>
