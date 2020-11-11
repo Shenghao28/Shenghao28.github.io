@@ -192,7 +192,7 @@ function proj2_func(){
 <font size="3">[2]</font></div>
 
 <div id="proj2" style="width:79%;float:left;text-align:justify;">
-<font size="3"><b>Cerebrovascular real-time interventional therapy with mobile surgical robot system.</b>  &nbsp;&nbsp;&nbsp; <i>(The National High Technology Research And Development Program Of China No.2015AA043203)<br><br></i></font>
+<font size="3"><b>Cerebrovascular real-time interventional therapy with mobile surgical robot system.</b>  &nbsp;&nbsp; <i>(The National High Technology Research And Development Program Of China No.2015AA043203)<br><br></i></font>
 <input type="button" id="bt_proj2" value="+" onclick="proj2_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Tiexiang Wen, Prof. Shoujun Zhou </font>
 <div id="div_proj2" >This is a project2.
 </div>
