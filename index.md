@@ -136,7 +136,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper3{
   width:100%;
-  height:440px;
+  height:470px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -492,7 +492,7 @@ function paper7_func(){
 
 <div id="paper4" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> Optimal Control of Urban Intersection Scheduling for Connected Automated Vehicle.</b><i> &nbsp; IEEE 31st Intelligent Vehicles Symposium (IV 2020) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
-<input type="button" id="bt_paper4" value="+" onclick="paper4_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt_paper4" value="+" onclick="paper4_func()"/><font size="3">Abstract</font><a href="https://github.com/Shenghao28/Shenghao28.github.io/blob/main/OptimalControlForConnectedVehicles.pdf"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div_paper4" >
 <p style= "font-size:13px">
 <br>
