@@ -53,7 +53,7 @@ GPA: 3.93/4.0
 2012.09 ~ 2016.06
 </div>
 
-<div id="time2" style="width:10%;float:left;">
+<div id="time2" style="width:100%;float:left;">
 &nbsp;&nbsp;&nbsp;&nbsp; &#8226; B.Sc. in Telecommunication Engineering
 </div>
 
