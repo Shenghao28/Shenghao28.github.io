@@ -188,6 +188,10 @@ function proj2_func(){
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
+<div id="title_proj1_proj2" style="width:100%;float:left;">
+<font size="4" color="green">  </font>
+</div>
+
 <div id="proj2_index" style="width:3%;float:left;text-align:justify;">
 <font size="3">[2]</font></div>
 
