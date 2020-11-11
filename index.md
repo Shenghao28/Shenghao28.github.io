@@ -261,12 +261,16 @@ function paper2_func(){
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
+<div id="title_paper1_paper2" style="width:100%;float:left;">
+<font size="4" color="green">  </font>
+</div>
+
 <div id="journal2_type" style="width:10%;float:left;text-align:justify;">
 [Journal]</div>
 
 <div id="paper2" style="width:70%;float:left;text-align:justify;">
 <font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
-<input type="button" id="paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt_paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div_paper2" >Paper2
 </div>
 </div>
