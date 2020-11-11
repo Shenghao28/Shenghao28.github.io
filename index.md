@@ -358,7 +358,7 @@ function paper7_func(){
 <font size="3">[1]</font></div>
 
 <div id="proj1" style="width:79%;float:left;text-align:justify;">
-<font size="3"><b>Towards maligantss tumors in different organs: Robotics system for precise intervention in brachytherapy.</b>  <br><br> &nbsp;&nbsp;&nbsp;&nbsp; <i>Funding:National Key R&D program of China No.2018YFA0704102<br><br></i></font>
+<font size="3"><b>Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy.</b>  <br><br> &nbsp;&nbsp;&nbsp;&nbsp; <i>Funding:National Key R&D program of China No.2018YFA0704102<br><br></i></font>
 <input type="button" id="bt_proj1" value="+" onclick="proj1_func()"/><font size="3">My Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD) </font>
 <div id="div_proj1" >This is a project.
 </div>
@@ -370,6 +370,8 @@ function paper7_func(){
 
 </body>
 
+---
+
 <body>
 
 <div id="title_proj1_proj2" style="width:100%;float:left;">
@@ -377,6 +379,8 @@ function paper7_func(){
 </div>
 
 </body>
+
+---
 
 <body>
 
