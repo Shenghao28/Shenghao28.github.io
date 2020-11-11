@@ -209,44 +209,25 @@ function proj2_func(){
 
 </body>
 
-
-
-
-
----
-
-<body>
-        <table style="border-collapse: collapse; border: none;">
-	        <tr>
-                       <th>number</th>
-                       <td>100000</td>
-                </tr>
-                <tr>
-                       <th>number</th>
-                       <td>88888</td>
-                </tr>
-        </table>
-</body>
-
 ---
 
 <body>
 	
 <div id="title1" style="width:100%;float:left;">
-<font size="6" color="green">Publication</font>
+<font size="4" color="green">Publication<br><br></font>
 </div>
 
 <div id="journal_type" style="height:200px;width:10%;float:left;text-align:justify;">
 [Journal]</div>
 
-<div id="menu" style="height:200px;width:70%;float:left;text-align:justify;">
-<b>Anna</b>, Tom, TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <br><br><i>International Journal of Computer-Assisited Radiology and Surgery</i><br><br>
-<input type="button" id="bt" value="+" class="FONT1BUTTON" onclick="xx()"/>   abstract  <a href=" http://www.baidu.com">Link</a>  <b>In Revision</b>
+<div id="paper1" style="height:200px;width:70%;float:left;text-align:justify;">
+<font size="3"><b>Anna</b>, Tom, TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <br><br><i>International Journal of Computer-Assisited Radiology and Surgery</i><b>In Revision</b><br><br></font>
+<input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div1" >A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
 </div>
 </div>
 
-<div id="content" style="height:200px;width:20%;float:left;">
+<div id="paper1_img" style="height:200px;width:20%;float:left;">
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
