@@ -85,6 +85,22 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
   color:#FF0000;
 }
 
+#div_paper2{
+  width:75%;
+  height:200px;
+  background:#DCDCDC;
+  opacity:0.99;
+  display:none;
+}
+
+#bt_paper2{
+  width:1%;
+  height:18px;
+  background:#FFFFFF;
+  border-style: none;
+  color:#FF0000;
+}
+
 #div_proj1{
   width:75%;
   height:200px;
@@ -163,6 +179,19 @@ function proj2_func(){
       obt.value="+";
     }
 }
+function paper2_func(){
+  var obt=document.getElementById("bt_paper2");
+  var odiv=document.getElementById("div_paper2");
+  
+    if(odiv.style.display=="block"){
+       odiv.style.display="none";
+      obt.value="+";
+    }
+    else{
+     odiv.style.display="block";
+      obt.value="+";
+    }
+}
 </script>
 
 
@@ -218,17 +247,31 @@ function proj2_func(){
 <font size="4" color="green">Publication<br><br></font>
 </div>
 
-<div id="journal_type" style="height:200px;width:10%;float:left;text-align:justify;">
+<div id="journal1_type" style="width:10%;float:left;text-align:justify;">
 [Journal]</div>
 
-<div id="paper1" style="height:200px;width:70%;float:left;text-align:justify;">
-<font size="3"><b>Anna</b>, Tom. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>&nbsp;International Journal of Computer-Assisited Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
+<div id="paper1" style="width:70%;float:left;text-align:justify;">
+<font size="3"><b>Shenghao Jiang</b>, Anna Sitong Teng, Jian Lu, Cheng Wang, Tiexiang Wen, Gaojun Teng. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>&nbsp;International Journal of Computer-Assisited Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
 <input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div1" >A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
 </div>
 </div>
 
-<div id="paper1_img" style="height:200px;width:20%;float:left;">
+<div id="paper1_img" style="width:20%;float:left;">
+<img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
+</div>
+
+<div id="journal2_type" style="width:10%;float:left;text-align:justify;">
+[Journal]</div>
+
+<div id="paper2" style="width:70%;float:left;text-align:justify;">
+<font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
+<input type="button" id="paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<div id="div_paper2" >Paper2
+</div>
+</div>
+
+<div id="paper2_img" style="width:20%;float:left;">
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
