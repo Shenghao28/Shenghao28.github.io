@@ -93,8 +93,8 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 }
 
 #bt_proj1{
-  width:15%;
-  height:36px;
+  width:30%;
+  height:18px;
   background:#FFFFFF;
   border-style: none;
 }
@@ -141,17 +141,17 @@ function proj1_func(){
 <body>
 
 <div id="title1" style="width:100%;float:left;">
-<font size="6" color="green">Research Project</font>
+<font size="4" color="green">Research Project</font>
 </div>
 
-<div id="proj1" style="width:75%;float:left;text-align:justify;">
-TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention. <br><br><i>Natural Science Founding XXX</i><br><br>
-<input type="button" id="bt_proj1" value="projection description" onclick="proj1_func()"/>  <b>Principal Investgitor: Prof Gaojun Teng</b>
+<div id="proj1" style="width:80%;float:left;text-align:justify;">
+<p style= "font-size:14px">Towards maligant tumors in different organs: Robotics system for precise intervention in brachytherapy <br><br><i>National Key R&D program of China (No.2018YFA0704102)</i><br><br></p>
+<input type="button" id="bt_proj1" value="+My Contribution" onclick="proj1_func()"/> <p style= "font-size:14px"> Supervisor: Prof. Gaojun Teng, Prof. Shoujun Zhou, Jian Lu (MD)</p>
 <div id="div_proj1" >This is a project.
 </div>
 </div>
 
-<div id="proj_img1" style="width:25%;float:left;">
+<div id="proj_img1" style="width:20%;float:left;">
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
