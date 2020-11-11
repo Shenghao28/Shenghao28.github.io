@@ -204,7 +204,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 #div_paper7{
   width:100%;
-  height:200px;
+  height:230px;
   background:#DCDCDC;
   opacity:0.99;
   display:none;
@@ -415,7 +415,13 @@ function paper7_func(){
 <div id="paper1" style="width:70%;float:left;text-align:justify;">
 <font size="3"><b>Shenghao Jiang</b>, Anna Sitong Teng, Jian Lu, Cheng Wang, Tiexiang Wen, Gaojun Teng. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>&nbsp;International Journal of Computer-Assisited Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
 <input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div1" >A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.
+<div id="div1" >
+<p style= "font-size:13px"> 
+<i><b>Purpose&nbsp;</b></i> Existing works in guidewire tip segmentation have focused on pixel-level accuracy only. However, for all the clinical applications, guidewire segmentation considering both pixel-level and topology-level accuracy is necessary. The existence of guidewire’s loop structure alerts the surgeons or robots to re-operate guidewire to avoid vessel damage caused by the bending structure of guidewire. Therefore, if the loop structure of guidewire forms during intervention, a guidewire segmentation model capable of producing result containing loop is much safer than the one producing results with the same pixel-level accuracy but no loop. Thus, a clinically useful guidewire segmentation model should achieve great performance in both pixel-level and topology-level.<br>
+<i><b>Methods&nbsp;</b></i> This paper focuses on guidewire segmentation with multiple contributions. 1) Two algorithmic contributions – an iterative segmentation framework and a pixel-topology-coupled loss function, which emphasize pixel-level and topology-level segmentation equally. 2) Metric contribution - a new metric that comprehensively evaluates the result in both pixel and topology level is introduced. 3) Dataset contribution – We establish the first publicly-available guidewire dataset containing 3000+ X-ray images with radiologist-annotated result. 4) Integration contribution – The algorithm is open-available and integrated into our previously developed surgical robot for surgical-scenario-validation.<br>
+<i><b>Results&nbsp;</b></i> The algorithm outperforms state-of-the-art in conventional pixel-level metric (0.06% ~ 4.21% on F1-Score and 1.88 ~ 8.13 pixels on tip-distance-error) and shows substantial superiority (0.16% ~ 20.99%) in newly introduced metric. The integration of the algorithm into the robot successfully realizes vision-based autonomous robotic guidewire manipulation in vivo.<br>
+<i><b>Conclusion&nbsp;</b></i> The framework is effective in segmenting the guidewire in a clinic-meaningful way – providing accurate position of tip’s endpoint (pixel-level) to the surgeon/robot and preserving the clinically meaningful structure (topology-level) simultaneously.<br>
+</p>
 </div>
 </div>
 
@@ -433,7 +439,15 @@ function paper7_func(){
 <div id="paper2" style="width:70%;float:left;text-align:justify;">
 <font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
 <input type="button" id="bt_paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div_paper2" >Paper2
+<div id="div_paper2" >
+
+<p style= "font-size:13px"> 
+<i><b>Purpose&nbsp;</b></i>Guidewire segmentation enhances visualization of guidewire for surgeons and provides visual feedback for robot-assisted intervention. It is, however, challenging to distinguish guidewire from other curvilinear structures.<br>
+<i><b>Methods&nbsp;</b></i> This paper proposed a multi-stage algorithm for guidewire segmentation. The procedure is explicitly split into three stages, including Prediction, Locking, and Tracking. Both guidewire and non-guidewire features are extracted (by a handcraft feature-based method) as input for non-guidewire elimination (by a learning-based method).<br>
+<i><b>Results&nbsp;</b></i> Our method outperforms (1.42% ~ 11.98% in F1-Score and 0.4 ~ 3.2 pixels in tip-distance-error) state-of-the-art for guidewire segmentation. Moreover, the method eliminates non-guidewire features earlier or later but more accurately than handcraft motion-metric-based methods. The multi-stage concept handles exceptional cases where structure of guidewire deteriorates momentarily. The integration of the algorithm with our developed cardiovascular robot shows that the algorithm provides real-time guidewire feedback for 5G-based robotic tele-surgery.<br>
+<i><b>Conclusion&nbsp;</b></i> The algorithm is effective for guidewire segmentation.<br>
+</p>
+
 </div>
 </div>
 
@@ -451,7 +465,16 @@ function paper7_func(){
 <div id="paper3" style="width:70%;float:left;text-align:justify;">
 <font size="3"> Xiaofeng Lin, Cheng Wang, <b>Shenghao Jiang</b>, Tiexiang Wen, Shoujun Zhou. <b> A novel multi-DOF surgical robotic system for brachytherapy on liver tumor: Design and control.</b><i>&nbsp; International Journal of Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> 
 <input type="button" id="bt_paper3" value="+" onclick="paper3_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div_paper3" >Paper3
+<div id="div_paper3" >
+
+
+<p style= "font-size:13px"> 
+<i><b>Purpose&nbsp;</b></i> Radioactive seeds implantation is an effective invasive treatment method for malignant liver tumor in hepatocellular carcinomas. However, the accuracy of the therapy is highly dependent upon surgeon’s experience. This paper aims to develop a robotic system in assisting surgeons in performing brachytherapy on liver tumor, which is characterized by high-accuracy, multiple degrees of freedom (DoF) and multimodal feedback.<br>
+<i><b>Methods&nbsp;</b></i> We present a novel interventional robotic system, which consists of a 5-DoF positioning robotic arm (a 3-DoF translational joint and a 2-DoF revolute joint) and a needle actuator used for needle insertion and radioactive seeds implantation. To ensure the safety of the motion, control strategy is designed for the system, where the motion planning is performed by artificial potential field approach and the ultrasound-image based contacting method is discussed in this paper.<br>
+<i><b>Results&nbsp;</b></i> Experiments were performed to evaluate position and orientation accuracy as well as validate the motion planning procedure of the system. The accuracy of positioning with and without rotation is 0.66±0.49 mm and 0.88±0.49mm, respectively. Orientation accuracy on the revolute joint is±0.2 degree and±0.1 degree, respectively. Needle placement accuracy is 1.1±0.5 mm. The feasibility of the control strategy is demonstrated by simulation and experiments based on an abdominal phantom.<br>
+<i><b>Conclusion&nbsp;</b></i> This paper presents a robotic system with force and US image feedback in assisting surgeons performing brachytherapy on liver tumor. The proposed robotic system is capable of executing an accurate needle insertion task while ensuring safe robotic motion to the patient under the feedback of the optical tracking system and US-image.<br>
+</p>
+
 </div>
 </div>
 
@@ -470,7 +493,12 @@ function paper7_func(){
 <div id="paper4" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> Optimal Control of Urban Intersection Scheduling for Connected Automated Vehicle.</b><i> &nbsp; IEEE 31st Intelligent Vehicles Symposium (IV 2020) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
 <input type="button" id="bt_paper4" value="+" onclick="paper4_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div_paper4" >Paper4
+<div id="div_paper4" >
+<p style= "font-size:13px">
+<br>
+We propose a novel urban congestion-aware intersection scheduling model based on vehicle to infrastructure communication (V2I) for automated and connected vehicles. In this model, a combinational optimized model which combines passing order and vehicular motion control together is proposed. In order to resolve the intersection conflict issue and improve traffic capacity, driving tube and potential conflict matrix is applied in the schedule optimization model. Take the global average waiting time as optimized object, we propose state encoding approach to collect all the vehicle’s information in the intersection. Then Deep Q Network (DQN) method is applied to resolve the scheduling problem, which outputs the driving tubes enable vector and subsequently 7th polynomial-based motion planning trajectory planning is exploited to generate the most comfortable and most efficient trajectory for active vehicles.  The optimal time cost proﬁle will be feedback to intersection manager via V2I channel for next time scheduling decision. The performance of this framework is evaluated based on a typical Chinese complicated urban scenario with extensive simulation, our framework achieves encouraging results in terms of average waiting time and peak traffic throughput.
+ </p>
+
 </div>
 </div>
 
@@ -488,7 +516,7 @@ function paper7_func(){
 <div id="paper7" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> An Interactive Lane Change Decision Making Model With Deep Reinforcement Learning.</b><i> &nbsp;  IROS Workshop on Fast Neural Perception and Learning for Intelligent Vehicles (IROS 2019) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
 <input type="button" id="bt_paper7" value="+" onclick="paper7_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div_paper7" ><p style= "font-size:13px"> By considering lane change maneuver as primarily a Partial Observed Markov Decision Process (POMDP) and motion planning problem, this paper presents an interactive model with a Recurrent Neural Network (RNN) approach to determine the adversarial or cooperative intention probability of following vehicle in target lane. To make proper and efficient lane change decision, Deep Q-value network (DQN) is applied to solve POMDP with expected global maximum reward. Then quintic polynomials-based motion planning algorithm is used to obtain both optimal lateral and longitudinal trajectory for autonomous vehicle to pursuit. Experimental results demonstrate the capability of the proposed model to execute lane change maneuver with comfortable and safety reference trajectory at an appropriate time instance and traffic gap in various highway traffic scenarios.</p>
+<div id="div_paper7" ><p style= "font-size:13px"> <br>By considering lane change maneuver as primarily a Partial Observed Markov Decision Process (POMDP) and motion planning problem, this paper presents an interactive model with a Recurrent Neural Network (RNN) approach to determine the adversarial or cooperative intention probability of following vehicle in target lane. To make proper and efficient lane change decision, Deep Q-value network (DQN) is applied to solve POMDP with expected global maximum reward. Then quintic polynomials-based motion planning algorithm is used to obtain both optimal lateral and longitudinal trajectory for autonomous vehicle to pursuit. Experimental results demonstrate the capability of the proposed model to execute lane change maneuver with comfortable and safety reference trajectory at an appropriate time instance and traffic gap in various highway traffic scenarios.</p>
 </div>
 </div>
 
@@ -507,7 +535,10 @@ function paper7_func(){
 <div id="paper5" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> A Cognitive Urban Collision Avoidance Framework Based on Agents Priority Using Recurrent Neural Network.</b><i> &nbsp; IEEE 19th International Conference on Advanced Robotics (ICAR 2019) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
 <input type="button" id="bt_paper5" value="+" onclick="paper5_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div_paper5" >Paper5
+<div id="div_paper5" >
+	
+<p style= "font-size:13px"><br> We propose a novel cognitive collision avoidance (CA)framework for autonomous driving(AD) vehicles in urban environments. In this framework, a hybrid future trajectory predictor is developed, which consists of a static agent classifer, a recurrent neural network (RNN) based trajectory predictor and a lane-based kinematic model predictor. To fuse the outputs of different predictors, an iterative multivariate Gaussian weighted algorithm is designed to drop outliers and estimate the predicted dynamic features more reliably. Subsequently, fed in with the fused results of observed agents, together with the current dynamic features and planned trajectory of the ego vehicle, an RNN-based priority prediction engine is applied to infer the priority probabilities distribution for CA decision, which indicates the likelihood that the vehicle continue driving according to its planned trajectory. By observing surrounding agents’ historical ground truth trajectory and taking the road geometry constraints into consideration, the future dynamic features, priority probabilities distribution and the CA decision can be figured out at every timestamp cognitively and adaptively. The performance of this framework is evaluated on a prototype car in multiple typical USA urban scenarios, comparing with conventional CA systems which assume constant velocity and only work when observed agents follow traffic rules, our framework alleviates these  limitations and achieves encouraging results in terms of the priority distribution estimation, with a frequency >20Hz, which is capable of running in real-time. </p>
+
 </div>
 </div>
 
@@ -526,7 +557,12 @@ function paper7_func(){
 <div id="paper6" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> Localization – guaranteed navigation in GPS-denied environment via multi-UAV closed-loop coordination.</b><i> &nbsp; IEEE 41st Aerospace Conference (AERO 2020) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
 <input type="button" id="bt_paper6" value="+" onclick="paper6_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
-<div id="div_paper6" >Paper6
+<div id="div_paper6" >
+	
+
+<p style= "font-size:13px"> <br> Consider a scenario where multiple Unmanned Aerial Vehicles (UAVs) autonomously collaborate with each other to explore an unknown environment where GPS is not available. A visual fiducial marker with known geometry is fixed on each UAV to provide relative localization between any pair of UAVs. Nevertheless, the UAVs need to plan their motion to ensure that the marker always appears in camera’s field of view so that they can be localized. Such requirement limits the trajectory space of UAVs when they are exploring the environment. To solve this issue, our first technical contribution is an innovative multi-UAV spatial closed-loop coordination mechanism, which provides guaranteed relative localization wherever they are in the unknown and texture-less environment. The coordination, however, requires that the environment satisfy line-of-sight (LOS) constraints, and therefore necessities the division of the global environment into different subareas such that LOS constraints are met within each subarea. Our second contribution is a novel temporal-spatial pose graph to register different subareas into one global environment accurately. Finally, we present an iterative strategy to simultaneously maximize the volume of exploration space and minimize the localization error under the line-of-sight (LOS) constraints. Comparison with STOA visual localization techniques in simulated unknown environment demonstrates that our method is robust, accurate and independent of the environment. </p>
+
+
 </div>
 </div>
 
