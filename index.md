@@ -27,7 +27,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 
 <div id="back1" style="width:65%;float:left;">
 
-<br><font size="2"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></font>
+<br><font size="3"><b>Harvard University, School of Engineering and Applied Sciences, USA</b></font>
 
 </div>
 
@@ -36,16 +36,16 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="time2" style="width:65%;float:left;">
-&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<font size="2"> M.Sc. in Engineering Science: Electrical Engineering</font><br>
+&nbsp;&nbsp;&nbsp;&nbsp; &#8226;<font size="2"> M.Sc. in Engineering Science: Electrical Engineering</font>
 </div>
 
 <div id="GPA" style="width:35%;float:left;">
-<font size="2">GPA: 3.93/4.0</font>
+<font size="2">GPA: 3.93/4.0</font><br>
 </div>
 
 <div id="back2" style="width:80%;float:left;">
 
-<font size="2"><b>Beijing University of Posts and Telecommunications  (China’s Top-2 in telecommunication technology) </b></font>
+<font size="3"><b>Beijing University of Posts and Telecommunications  (China’s Top-2 in telecommunication technology) </b></font>
 </div>
 
 <div id="time2" style="width:20%;float:left;text-align:right;">
@@ -61,7 +61,7 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 </div>
 
 <div id="GPA2" style="width:35%;float:left;">
-<font size="2">GPA: 95.9/100.0</font>
+<font size="2">GPA: 95.9/100.0</font><br>
 </div>
 
 </body>
