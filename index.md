@@ -12,6 +12,9 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <img style="float:left;" src="/zhengjianzhao.jpg" width="100%">
 </div>
 
+</body>
+
+<body>
 
 <div id="site end" style="width:100%;float:left;">
 </div>
