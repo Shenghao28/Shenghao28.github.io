@@ -24,8 +24,6 @@ My name is Shenghao Jiang. I am currently a research intern in the Department of
 <div id="site end" style="width:100%;float:left;">
 </div>
 
-</div>
-
 
 
 </body>
