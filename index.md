@@ -414,7 +414,7 @@ function paper7_func(){
 
 <div id="paper1" style="width:70%;float:left;text-align:justify;">
 <font size="3"><b>Shenghao Jiang</b>, Anna Sitong Teng, Jian Lu, Cheng Wang, Tiexiang Wen, Gaojun Teng. <b>TopoIS: A Topology-aware Guidewire Segmentation framework For Robot-assisted Cardiovascular Intervention.</b><i>&nbsp;International Journal of Computer-Assisited Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Revision</b></font><br><br>
-<input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt" value="+" onclick="xx()"/><font size="3">Abstract</font>  
 <div id="div1" >
 <p style= "font-size:13px"> 
 <i><b>Purpose&nbsp;</b></i> Existing works in guidewire tip segmentation have focused on pixel-level accuracy only. However, for all the clinical applications, guidewire segmentation considering both pixel-level and topology-level accuracy is necessary. The existence of guidewire’s loop structure alerts the surgeons or robots to re-operate guidewire to avoid vessel damage caused by the bending structure of guidewire. Therefore, if the loop structure of guidewire forms during intervention, a guidewire segmentation model capable of producing result containing loop is much safer than the one producing results with the same pixel-level accuracy but no loop. Thus, a clinically useful guidewire segmentation model should achieve great performance in both pixel-level and topology-level.<br><br>
@@ -438,7 +438,7 @@ function paper7_func(){
 
 <div id="paper2" style="width:70%;float:left;text-align:justify;">
 <font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
-<input type="button" id="bt_paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt_paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font> 
 <div id="div_paper2" >
 
 <p style= "font-size:13px"> 
@@ -464,7 +464,7 @@ function paper7_func(){
 
 <div id="paper3" style="width:70%;float:left;text-align:justify;">
 <font size="3"> Xiaofeng Lin, Cheng Wang, <b>Shenghao Jiang</b>, Tiexiang Wen, Shoujun Zhou. <b> A novel multi-DOF surgical robotic system for brachytherapy on liver tumor: Design and control.</b><i>&nbsp; International Journal of Computer-Assisted Radiology and Surgery. </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> 
-<input type="button" id="bt_paper3" value="+" onclick="paper3_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt_paper3" value="+" onclick="paper3_func()"/><font size="3">Abstract</font>  
 <div id="div_paper3" >
 
 
@@ -515,7 +515,7 @@ We propose a novel urban congestion-aware intersection scheduling model based on
 
 <div id="paper7" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> An Interactive Lane Change Decision Making Model With Deep Reinforcement Learning.</b><i> &nbsp;  IROS Workshop on Fast Neural Perception and Learning for Intelligent Vehicles (IROS 2019) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
-<input type="button" id="bt_paper7" value="+" onclick="paper7_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt_paper7" value="+" onclick="paper7_func()"/><font size="3">Abstract</font><a href="https://ieeexplore.ieee.org/document/8988750"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div_paper7" ><p style= "font-size:13px"> <br>By considering lane change maneuver as primarily a Partial Observed Markov Decision Process (POMDP) and motion planning problem, this paper presents an interactive model with a Recurrent Neural Network (RNN) approach to determine the adversarial or cooperative intention probability of following vehicle in target lane. To make proper and efficient lane change decision, Deep Q-value network (DQN) is applied to solve POMDP with expected global maximum reward. Then quintic polynomials-based motion planning algorithm is used to obtain both optimal lateral and longitudinal trajectory for autonomous vehicle to pursuit. Experimental results demonstrate the capability of the proposed model to execute lane change maneuver with comfortable and safety reference trajectory at an appropriate time instance and traffic gap in various highway traffic scenarios.</p>
 </div>
 </div>
@@ -534,7 +534,7 @@ We propose a novel urban congestion-aware intersection scheduling model based on
 
 <div id="paper5" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> A Cognitive Urban Collision Avoidance Framework Based on Agents Priority Using Recurrent Neural Network.</b><i> &nbsp; IEEE 19th International Conference on Advanced Robotics (ICAR 2019) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
-<input type="button" id="bt_paper5" value="+" onclick="paper5_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt_paper5" value="+" onclick="paper5_func()"/><font size="3">Abstract</font><a href="https://ieeexplore.ieee.org/document/8981566m"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div_paper5" >
 	
 <p style= "font-size:13px"><br> We propose a novel cognitive collision avoidance (CA)framework for autonomous driving(AD) vehicles in urban environments. In this framework, a hybrid future trajectory predictor is developed, which consists of a static agent classifer, a recurrent neural network (RNN) based trajectory predictor and a lane-based kinematic model predictor. To fuse the outputs of different predictors, an iterative multivariate Gaussian weighted algorithm is designed to drop outliers and estimate the predicted dynamic features more reliably. Subsequently, fed in with the fused results of observed agents, together with the current dynamic features and planned trajectory of the ego vehicle, an RNN-based priority prediction engine is applied to infer the priority probabilities distribution for CA decision, which indicates the likelihood that the vehicle continue driving according to its planned trajectory. By observing surrounding agents’ historical ground truth trajectory and taking the road geometry constraints into consideration, the future dynamic features, priority probabilities distribution and the CA decision can be figured out at every timestamp cognitively and adaptively. The performance of this framework is evaluated on a prototype car in multiple typical USA urban scenarios, comparing with conventional CA systems which assume constant velocity and only work when observed agents follow traffic rules, our framework alleviates these  limitations and achieves encouraging results in terms of the priority distribution estimation, with a frequency >20Hz, which is capable of running in real-time. </p>
@@ -556,7 +556,7 @@ We propose a novel urban congestion-aware intersection scheduling model based on
 
 <div id="paper6" style="width:65%;float:left;text-align:justify;">
 <font size="3"> <b>Shenghao Jiang</b>, Macheng Shen. <b> Localization – guaranteed navigation in GPS-denied environment via multi-UAV closed-loop coordination.</b><i> &nbsp; IEEE 41st Aerospace Conference (AERO 2020) </i> &nbsp;</font><font size="3" color="red"><b>Accepted</b></font><br><br> 
-<input type="button" id="bt_paper6" value="+" onclick="paper6_func()"/><font size="3">Abstract</font><a href=" http://www.baidu.com"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
+<input type="button" id="bt_paper6" value="+" onclick="paper6_func()"/><font size="3">Abstract</font><a href="https://ieeexplore.ieee.org/document/9172535"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link</font></a>  
 <div id="div_paper6" >
 	
 
