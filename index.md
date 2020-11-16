@@ -440,32 +440,6 @@ function paper7_func(){
 <img style="float:left;" src="/paper1.jpg" width="100%">
 </div>
 
-<div id="title_paper1_paper2" style="width:100%;float:left;">
-<font size="4"> <br> </font>
-</div>
-
-<div id="journal2_type" style="width:10%;float:left;text-align:justify;">
-[Journal]</div>
-
-<div id="paper2" style="width:70%;float:left;text-align:justify;">
-<font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery (IJMRCAS). </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
-<input type="button" id="bt_paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font> 
-<div id="div_paper2" >
-
-<p style= "font-size:13px"> 
-<i><b>Purpose&nbsp;</b></i>Guidewire segmentation enhances visualization of guidewire for surgeons and provides visual feedback for robot-assisted intervention. It is, however, challenging to distinguish guidewire from other curvilinear structures.<br><br>
-<i><b>Methods&nbsp;</b></i> This paper proposed a multi-stage algorithm for guidewire segmentation. The procedure is explicitly split into three stages, including Prediction, Locking, and Tracking. Both guidewire and non-guidewire features are extracted (by a handcraft feature-based method) as input for non-guidewire elimination (by a learning-based method).<br><br>
-<i><b>Results&nbsp;</b></i> Our method outperforms (1.42% ~ 11.98% in F1-Score and 0.4 ~ 3.2 pixels in tip-distance-error) state-of-the-art for guidewire segmentation. Moreover, the method eliminates non-guidewire features earlier or later but more accurately than handcraft motion-metric-based methods. The multi-stage concept handles exceptional cases where structure of guidewire deteriorates momentarily. The integration of the algorithm with our developed cardiovascular robot shows that the algorithm provides real-time guidewire feedback for 5G-based robotic tele-surgery.<br><br>
-<i><b>Conclusion&nbsp;</b></i> The algorithm is effective for guidewire segmentation.<br>
-</p>
-
-</div>
-</div>
-
-<div id="paper2_img" style="width:20%;float:left;">
-<img style="float:left;" src="/paper2.jpg" width="100%">
-</div>
-
 <div id="title_paper2_paper3" style="width:100%;float:left;">
 <font size="4"> <br> </font>
 </div>
@@ -492,6 +466,34 @@ function paper7_func(){
 <div id="paper3_img" style="width:20%;float:left;">
 <img style="float:left;" src="/paper3.jpg" width="100%">
 </div>
+
+<div id="title_paper1_paper2" style="width:100%;float:left;">
+<font size="4"> <br> </font>
+</div>
+
+<div id="journal2_type" style="width:10%;float:left;text-align:justify;">
+[Journal]</div>
+
+<div id="paper2" style="width:70%;float:left;text-align:justify;">
+<font size="3"> Cheng Wang*, <b>Shenghao Jiang</b>*,  Biwen Wang, Anna Sitong Teng, Yi Pang, Jian Lu, Tiexiang Wen. <b>RuSio: A multi-stage algorithm for guidewire tracking and segmentation.</b><i>&nbsp; International Journal of Medical Robotics and Computer-Assisted Radiology and Surgery (IJMRCAS). </i> &nbsp;</font><font size="3" color="red"><b>In Review</b></font><br><br> &nbsp;&nbsp;&nbsp; <font size="3">* refers to equal contribition </font> <br><br>
+<input type="button" id="bt_paper2" value="+" onclick="paper2_func()"/><font size="3">Abstract</font> 
+<div id="div_paper2" >
+
+<p style= "font-size:13px"> 
+<i><b>Purpose&nbsp;</b></i>Guidewire segmentation enhances visualization of guidewire for surgeons and provides visual feedback for robot-assisted intervention. It is, however, challenging to distinguish guidewire from other curvilinear structures.<br><br>
+<i><b>Methods&nbsp;</b></i> This paper proposed a multi-stage algorithm for guidewire segmentation. The procedure is explicitly split into three stages, including Prediction, Locking, and Tracking. Both guidewire and non-guidewire features are extracted (by a handcraft feature-based method) as input for non-guidewire elimination (by a learning-based method).<br><br>
+<i><b>Results&nbsp;</b></i> Our method outperforms (1.42% ~ 11.98% in F1-Score and 0.4 ~ 3.2 pixels in tip-distance-error) state-of-the-art for guidewire segmentation. Moreover, the method eliminates non-guidewire features earlier or later but more accurately than handcraft motion-metric-based methods. The multi-stage concept handles exceptional cases where structure of guidewire deteriorates momentarily. The integration of the algorithm with our developed cardiovascular robot shows that the algorithm provides real-time guidewire feedback for 5G-based robotic tele-surgery.<br><br>
+<i><b>Conclusion&nbsp;</b></i> The algorithm is effective for guidewire segmentation.<br>
+</p>
+
+</div>
+</div>
+
+<div id="paper2_img" style="width:20%;float:left;">
+<img style="float:left;" src="/paper2.jpg" width="100%">
+</div>
+
+
 
 
 <div id="title_paper3_paper4" style="width:100%;float:left;">
